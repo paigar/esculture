@@ -5,7 +5,7 @@ media_folder: "assets/images"
 public_folder: "/assets/images"
 collections:
   - name: "artistas"
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{hour}}-{{minute}}-{{second}}"
     label: "Artistas"
     folder: "artistas"
     create: true

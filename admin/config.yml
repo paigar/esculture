@@ -32,9 +32,9 @@ collections:
           name: "artista",
           widget: "relation",
           collection: "artistas",
-          search_fields: ["nombre"],
-          value_field: "nombre",
-          display_fields: ["nombre"],
+          search_fields: ["title"],
+          value_field: "title",
+          display_fields: ["title"],
         }
       - {
           label: "Imagen principal",

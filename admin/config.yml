@@ -1,0 +1,50 @@
+backend:
+  name: git-gateway
+  branch: master
+media_folder: "assets/images"
+public_folder: "/assets/images"
+collections:
+  - name: "artistas"
+    label: Artistas
+    folder: artistas
+    create: true
+    fields:
+      - { label: "Nombre", name: "nombre", widget: "string" }
+      - {
+          label: "Imagen principal",
+          name: "imagen",
+          widget: "image",
+          choose_url: false,
+          allow_multiple: false,
+        }
+      - {
+          label: "Enlace",
+          name: "permalink",
+          widget: "hidden",
+          default: "/artistas/{{ nombre | slugify }}/",
+        }
+      - { label: "Instagram", name: "instagram", widget: "string" }
+      - { label: "Biografía del artista", name: "body", widget: "markdown" }
+  - name: "obras"
+    label: Obras
+    folder: obras
+    create: true
+    fields:
+      - { label: "Título", name: "titulo", widget: "string" }
+      - {
+          label: "Autor",
+          name: "artista",
+          widget: "relation",
+          colection: "artistas",
+          search_fields: ["nombre"],
+          value_field: "nombre",
+          display_fields: ["nombre"],
+        }
+      - {
+          label: "Imagen principal",
+          name: "imagen",
+          widget: "image",
+          choose_url: false,
+          allow_multiple: false,
+        }
+      - { label: "Descipción de la obra", name: "body", widget: "markdown" }

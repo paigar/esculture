@@ -1,7 +1,7 @@
 ---
-titulo: David Villaverde
+nombre: David Villaverde
 imagen: /assets/images/davidvillaverde.jpg
-permalink: "/artistas/{{ titulo | slugify }}/"
+permalink: "/artistas/{{ nombre | slugify }}/"
 instagram:
 web:
 cv:

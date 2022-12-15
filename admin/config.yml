@@ -5,8 +5,8 @@ media_folder: "assets/images"
 public_folder: "/assets/images"
 collections:
   - name: "artistas"
-    label: Artistas
-    folder: artistas
+    label: "Artistas"
+    folder: "artistas"
     create: true
     fields:
       - { label: "Nombre", name: "nombre", widget: "string" }
@@ -26,8 +26,8 @@ collections:
       - { label: "Instagram", name: "instagram", widget: "string" }
       - { label: "Biografía del artista", name: "body", widget: "markdown" }
   - name: "obras"
-    label: Obras
-    folder: obras
+    label: "Obras"
+    folder: "obras"
     create: true
     fields:
       - { label: "Título", name: "titulo", widget: "string" }
@@ -35,7 +35,7 @@ collections:
           label: "Autor",
           name: "artista",
           widget: "relation",
-          colection: "artistas",
+          collection: "artistas",
           search_fields: ["nombre"],
           value_field: "nombre",
           display_fields: ["nombre"],

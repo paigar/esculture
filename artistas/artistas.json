@@ -1,0 +1,4 @@
+{
+  "tags": ["artistas"],
+  "layout": "layouts/artista.njk"
+}

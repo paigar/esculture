@@ -1,0 +1,16 @@
+---
+layout: layouts/base.njk
+templateClass: autor
+---
+<img src="{{ imagen }}">
+
+<div class="contenedor">
+
+  <h1>{{ titulo }}</h1>
+
+  {{ content | safe }}
+
+  {% set obras = collections.obras %}
+  {% include "obrasartista.njk" %}
+
+</div>

@@ -1,0 +1,4 @@
+{
+  "tags": ["obras"],
+  "layout": "layouts/post.njk"
+}

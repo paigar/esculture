@@ -1,9 +1,10 @@
 ---
 nombre: David Villaverde
 imagen: /assets/images/davidvillaverde.jpg
-instagram:
-web:
-cv:
+instagram: s
+web: null
+cv: null
+title: sadas
 ---
 
 David Villaverde, arquitecto de profesión, es un escultor dedicado a la disciplica desde el año 2003. Tiene una perspectiva única de geometrías y su pasión es el trabajo por los volúmenes y formas.

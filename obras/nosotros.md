@@ -1,5 +1,6 @@
 ---
 titulo: Nosotros
+title: sdfdsfsd
 artista: David Villaverde
 imagen: /assets/images/obra1-1.jpg
 ---

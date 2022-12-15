@@ -10,19 +10,13 @@ collections:
     folder: "artistas"
     create: true
     fields:
-      - { label: "Nombre", name: "nombre", widget: "string" }
+      - { label: "Nombre", name: "title", widget: "string" }
       - {
           label: "Imagen principal",
           name: "imagen",
           widget: "image",
           choose_url: false,
           allow_multiple: false,
-        }
-      - {
-          label: "Enlace",
-          name: "permalink",
-          widget: "hidden",
-          default: "/artistas/{{ nombre | slugify }}/",
         }
       - { label: "Instagram", name: "instagram", widget: "string" }
       - { label: "Biografía del artista", name: "body", widget: "markdown" }
@@ -32,7 +26,7 @@ collections:
     folder: "obras"
     create: true
     fields:
-      - { label: "Título", name: "titulo", widget: "string" }
+      - { label: "Título", name: "title", widget: "string" }
       - {
           label: "Autor",
           name: "artista",

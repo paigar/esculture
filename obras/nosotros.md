@@ -2,7 +2,6 @@
 titulo: Nosotros
 artista: David Villaverde
 imagen: /assets/images/obra1-1.jpg
-permalink: /artistas/{{ artista | slugify }}/{{ titulo | slugify }}/
 ---
 
 Esta escultura pretende explorar el concepto de relación de pareja:

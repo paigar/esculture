@@ -1,7 +1,6 @@
 ---
 nombre: David Villaverde
 imagen: /assets/images/davidvillaverde.jpg
-permalink: "/artistas/{{ nombre | slugify }}/"
 instagram:
 web:
 cv:

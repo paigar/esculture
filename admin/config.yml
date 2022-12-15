@@ -5,6 +5,7 @@ media_folder: "assets/images"
 public_folder: "/assets/images"
 collections:
   - name: "artistas"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     label: "Artistas"
     folder: "artistas"
     create: true
@@ -26,6 +27,7 @@ collections:
       - { label: "Instagram", name: "instagram", widget: "string" }
       - { label: "Biografía del artista", name: "body", widget: "markdown" }
   - name: "obras"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     label: "Obras"
     folder: "obras"
     create: true

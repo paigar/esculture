@@ -19,7 +19,7 @@ collections:
     fields:
       - label: "Nombre del Artista"
         name: "nombre"
-        widget: "string" }
+        widget: "string"
       - label: "Imagen principal"
         name: "imagen"
         widget: "image"
@@ -31,7 +31,7 @@ collections:
         required: false
       - label: "Biografía del artista"
         name: "body"
-        widget: "markdown" 
+        widget: "markdown"
     editor:
       preview: false
   - name: "obras"
@@ -43,7 +43,7 @@ collections:
     fields:
       - label: "Título de la Obra"
         name: "titulo"
-        widget: "string" 
+        widget: "string"
       - label: "Autor"
         name: "artista"
         widget: "relation"
@@ -71,6 +71,6 @@ collections:
             multiple: true
       - label: "Descipción de la obra"
         name: "body"
-        widget: "markdown" 
+        widget: "markdown"
     editor:
       preview: false

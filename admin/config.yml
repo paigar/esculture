@@ -74,3 +74,23 @@ collections:
         widget: "markdown"
     editor:
       preview: false
+  - name: "esculture"
+    slug: "{{slug}}"
+    identifier_field: titulo
+    label: "Esculture"
+    folder: "esculture"
+    create: true
+    fields:
+      - label: "Título"
+        name: "titulo"
+        widget: "string"
+      - label: "Imagen principal"
+        name: "imagen"
+        widget: "image"
+        choose_url: false
+        allow_multiple: false
+      - label: "Texto"
+        name: "body"
+        widget: "markdown"
+    editor:
+      preview: false

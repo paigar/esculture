@@ -4,14 +4,20 @@ backend:
 locale: "es"
 media_folder: "assets/images"
 public_folder: "/assets/images"
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: dasijlpgz
+    api_key: 338213514969289
 collections:
   - name: "artistas"
-    slug: "{{slug}}-{{year}}{{month}}{{day}}{{hour}}{{minute}}{{second}}"
+    slug: "{{slug}}"
+    identifier_field: nombre
     label: "Artistas"
     folder: "artistas"
     create: true
     fields:
-      - { label: "Nombre", name: "title", widget: "string" }
+      - { label: "Nombre del Artista", name: "nombre", widget: "string" }
       - {
           label: "Imagen principal",
           name: "imagen",
@@ -19,15 +25,22 @@ collections:
           choose_url: false,
           allow_multiple: false,
         }
-      - { label: "Instagram", name: "instagram", widget: "string" }
+      - {
+          label: "Instagram",
+          name: "instagram",
+          widget: "string",
+          required: false,
+        }
       - { label: "Biografía del artista", name: "body", widget: "markdown" }
+    editor:
+      preview: false
   - name: "obras"
-    slug: "{{slug}}-{{year}}{{month}}{{day}}{{hour}}{{minute}}{{second}}"
+    slug: "{{slug}}"
     label: "Obras"
     folder: "obras"
     create: true
     fields:
-      - { label: "Título", name: "title", widget: "string" }
+      - { label: "Título de la Obra", name: "title", widget: "string" }
       - {
           label: "Autor",
           name: "artista",
@@ -45,3 +58,5 @@ collections:
           allow_multiple: false,
         }
       - { label: "Descipción de la obra", name: "body", widget: "markdown" }
+    editor:
+      preview: false

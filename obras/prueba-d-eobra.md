@@ -1,8 +1,7 @@
 ---
-title: Juanjo
-nombre: Juanjo
-imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1671169725/cld-sample.jpg
-instagram: ""
+title: Prueba d eobra
+artista: Juanjo
+imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1671169726/cld-sample-2.jpg
 ---
 <!--StartFragment-->
 

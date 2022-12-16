@@ -36,11 +36,12 @@ collections:
       preview: false
   - name: "obras"
     slug: "{{slug}}"
+    identifier_field: titulo
     label: "Obras"
     folder: "obras"
     create: true
     fields:
-      - { label: "Título de la Obra", name: "title", widget: "string" }
+      - { label: "Título de la Obra", name: "titulo", widget: "string" }
       - {
           label: "Autor",
           name: "artista",

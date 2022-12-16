@@ -58,7 +58,13 @@ collections:
           choose_url: false,
           allow_multiple: false,
         }
-        { label: "Vídeo de la obra", name: "video", widget: "file", choose_url: false, allow_multiple: false,}
+      - {
+          label: "Vídeo de la obra",
+          name: "video",
+          widget: "file",
+          choose_url: false,
+          allow_multiple: false,
+        }
       - {
           label: "Galería de imágenes",
           name: "galeria",

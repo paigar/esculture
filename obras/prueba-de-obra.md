@@ -3,7 +3,10 @@ titulo: Prueba de obra
 artista: Juanjo
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1671169726/cld-sample-3.jpg
 video: https://res.cloudinary.com/dasijlpgz/video/upload/v1671171285/david2_lkre9w.mp4
-galeria: https://res.cloudinary.com/dasijlpgz/image/upload/v1671169726/cld-sample-2.jpg
+galeria:
+  - https://res.cloudinary.com/dasijlpgz/image/upload/v1671169725/cld-sample.jpg
+  - https://res.cloudinary.com/dasijlpgz/image/upload/v1671169726/cld-sample-3.jpg
+  - https://res.cloudinary.com/dasijlpgz/image/upload/v1671169726/cld-sample-2.jpg
 ---
 <!--StartFragment-->
 

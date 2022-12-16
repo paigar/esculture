@@ -17,21 +17,21 @@ collections:
     folder: "artistas"
     create: true
     fields:
-      - { label: "Nombre del Artista", name: "nombre", widget: "string" }
-      - {
-          label: "Imagen principal",
-          name: "imagen",
-          widget: "image",
-          choose_url: false,
-          allow_multiple: false,
-        }
-      - {
-          label: "Instagram",
-          name: "instagram",
-          widget: "string",
-          required: false,
-        }
-      - { label: "Biografía del artista", name: "body", widget: "markdown" }
+      - label: "Nombre del Artista"
+        name: "nombre"
+        widget: "string" }
+      - label: "Imagen principal"
+        name: "imagen"
+        widget: "image"
+        choose_url: false
+        allow_multiple: false
+      - label: "Instagram"
+        name: "instagram"
+        widget: "string"
+        required: false
+      - label: "Biografía del artista"
+        name: "body"
+        widget: "markdown" 
     editor:
       preview: false
   - name: "obras"
@@ -41,37 +41,36 @@ collections:
     folder: "obras"
     create: true
     fields:
-      - { label: "Título de la Obra", name: "titulo", widget: "string" }
-      - {
-          label: "Autor",
-          name: "artista",
-          widget: "relation",
-          collection: "artistas",
-          search_fields: ["title"],
-          value_field: "title",
-          display_fields: ["title"],
-        }
-      - {
-          label: "Imagen principal",
-          name: "imagen",
-          widget: "image",
-          choose_url: false,
-          allow_multiple: false,
-        }
-      - {
-          label: "Vídeo de la obra",
-          name: "video",
-          widget: "file",
-          choose_url: false,
-          allow_multiple: false,
-        }
-      - {
-          label: "Galería de imágenes",
-          name: "galeria",
-          widget: "image",
-          choose_url: false,
-          allow_multiple: true,
-        }
-      - { label: "Descipción de la obra", name: "body", widget: "markdown" }
+      - label: "Título de la Obra"
+        name: "titulo"
+        widget: "string" 
+      - label: "Autor"
+        name: "artista"
+        widget: "relation"
+        collection: "artistas"
+        search_fields: ["title"]
+        value_field: "title"
+        display_fields: ["title"]
+      - label: "Imagen principal"
+        name: "imagen"
+        widget: "image"
+        choose_url: false
+        allow_multiple: false
+      - label: "Vídeo de la obra"
+        name: "video"
+        widget: "file"
+        choose_url: false
+        allow_multiple: false
+      - label: "Galería de imágenes"
+        name: "galeria"
+        widget: "image"
+        choose_url: false
+        allow_multiple: true
+        media_library:
+          config:
+            multiple: true
+      - label: "Descipción de la obra"
+        name: "body"
+        widget: "markdown" 
     editor:
       preview: false

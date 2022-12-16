@@ -1,5 +1,5 @@
 ---
-title: Prueba de obra
+titulo: Prueba de obra
 artista: Juanjo
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1671169726/cld-sample-3.jpg
 ---

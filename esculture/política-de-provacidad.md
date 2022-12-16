@@ -1,5 +1,5 @@
 ---
-titulo: Política de provacidad
+titulo: Política de privacidad
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1671169725/cld-sample.jpg
 ---
 **Esta página Web es titularidad de EMPRESA S.L. cuyos datos de identificación son los siguientes:**

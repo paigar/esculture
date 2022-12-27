@@ -1,6 +1,6 @@
 ---
 titulo: Aviso Legal
-imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1671169725/cld-sample.jpg
+imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1672158726/web/taller.jpg
 ---
 ## Condiciones de uso
 

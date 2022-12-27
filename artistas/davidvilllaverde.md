@@ -1,6 +1,6 @@
 ---
 nombre: David Villaverde
-imagen: /assets/images/davidvillaverde.jpg
+imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1672152614/artistas/perfil.jpg
 instagram: s
 web: null
 cv: null

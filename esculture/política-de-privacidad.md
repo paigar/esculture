@@ -1,6 +1,6 @@
 ---
 titulo: Política de privacidad
-imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1671169725/cld-sample.jpg
+imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1672158726/web/taller.jpg
 ---
 **Esta página Web es titularidad de EMPRESA S.L. cuyos datos de identificación son los siguientes:**
 

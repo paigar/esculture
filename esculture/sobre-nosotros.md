@@ -1,6 +1,6 @@
 ---
 titulo: Sobre nosotros
-imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1671169725/cld-sample.jpg
+imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1672152193/obras/107.jpg
 templateClass: nosotros
 ---
 

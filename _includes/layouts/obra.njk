@@ -1,0 +1,33 @@
+---
+layout: layouts/base.njk
+templateClass: obra
+---
+{% if video %}
+  <div class="imagencabecera">
+    <video class="videohome" id="videohome" poster="{{ imagen }}" autoplay="" loop="" muted="" playsinline="" preload="auto"  src="{{ video }}"></video>
+  </div>
+{% else %}
+  <div class="imagencabecera cubrir">
+    <img src="{{ imagen }}" alt="{{ titulo }}">
+  </div>
+{% endif %}
+
+<div class="contenedor">
+
+  <div class="tituloizq">
+    <h1 class="fs5 marcaagua">{{ artista }}</h1>
+    <h2 class="fs3 titulo">{{ titulo }}</h2>
+    <div class="contenido">
+      {{ content | safe }}
+    </div>
+  </div>
+
+</div>
+
+<div draggable="true" class="galeria">
+  {% for imagen in galeria %}
+    <div class="elementogaleria">
+      <img src="{{imagen}}" alt="">
+    </div>
+  {% endfor %}
+</div>

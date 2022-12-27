@@ -1,0 +1,22 @@
+---
+layout: "layouts/base.njk"
+---
+{% if imagen %}
+  <div class="imagencabecera cubrir">
+    <img src="{{ imagen }}" alt="{{ titulo }}">
+  </div>
+{% endif %}
+
+<div class="contenedor">
+
+  <div class="articulo">
+
+    <h1 class="titulo fs4">{{ titulo }}</h1>
+    <div class="contenido">
+
+      {{ content | safe }}</div>
+  </div>
+
+</div>
+
+{% include "layouts/partials/enlace_artistas.njk" %}

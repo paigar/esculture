@@ -27,11 +27,18 @@
             <span class="linea inf"></span>
           </label>
           <ul class="nav">
-            {%- for entry in collections.all | eleventyNavigation %}
-              <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}">
-                <a href="{{ entry.url | url }}">{{ entry.title }}</a>
-              </li>
-            {%- endfor %}
+            <li class="nav-item{% if page.url == "/" %} nav-item-active{% endif %}">
+              <a href="/">Inicio</a>
+            </li>
+            <li class="nav-item{% if "sobre-nosotros" in page.url %} nav-item-active{% endif %}">
+              <a href="/sobre-nosotros/">¿Qué es Esculture?</a>
+            </li>
+            <li class="nav-item{% if "artistas" in page.url %} nav-item-active{% endif %}">
+              <a href="/artistas/">Artistas</a>
+            </li>
+            <li class="nav-item{% if "contacto" in page.url %} nav-item-active{% endif %}">
+              <a href="/contacto/">Contacto</a>
+            </li>
           </ul>
 
         </nav>
@@ -44,23 +51,46 @@
       {{ content | safe }}
     </main>
 
-    <footer></footer>
+    <footer class="pie">
+      <div class="contenedor">
+        <div class="infopie">
+          <div class="logopie">
+            {% include 'icons/logo.svg' %}
+          </div>
+          <div class="menupie">
+            <ul class="nav">
+              <li class="nav-item{% if "sobre-nosotros" in page.url %} nav-item-active{% endif %}">
+                <a href="/sobre-nosotros/">¿Qué es Esculture?</a>
+              </li>
+              <li class="nav-item{% if "artistas" in page.url %} nav-item-active{% endif %}">
+                <a href="/artistas/">Artistas</a>
+              </li>
+              <li class="nav-item{% if "contacto" in page.url %} nav-item-active{% endif %}">
+                <a href="/contacto/">Contacto</a>
+              </li>
+            </ul>
+          </div>
+          <div class="menupie">
+            <ul class="nav">
+              <li class="nav-item{% if "aviso-legal" in page.url %} nav-item-active{% endif %}">
+                <a href="/aviso-legal/">Aviso legal</a>
+              </li>
+              <li class="nav-item{% if "privacidad" in page.url %} nav-item-active{% endif %}">
+                <a href="/politica-de-privacidad/">Política de privacidad</a>
+              </li>
+              <li class="nav-item{% if "cookies" in page.url %} nav-item-active{% endif %}">
+                <a href="/uso-de-cookies/">Uso de cookies</a>
+              </li>
+            </ul>
+          </div>
+          <div class="lema">
+            <p>"Un acercamiento más personal a la escultura"</p>
+          </div>
+        </div>
+      </div>
+    </footer>
 
     <!-- Current page: {{ page.url | url }} -->
-    <script>
-      if (window.netlifyIdentity) {
-        window
-          .netlifyIdentity
-          .on("init", user => {
-            if (!user) {
-              window
-                .netlifyIdentity
-                .on("login", () => {
-                  document.location.href = "/admin/";
-                });
-            }
-          });
-      }
-    </script>
+    <script src="/assets/js/main.js"></script>
   </body>
 </html>

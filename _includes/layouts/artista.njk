@@ -1,16 +1,30 @@
 ---
 layout: layouts/base.njk
-templateClass: autor
+templateClass: artista
 ---
-<img src="{{ imagen }}">
+
+{% if imagen %}
+  <div class="imagencabecera cubrir">
+    <img src="{{ imagen }}" alt="{{ titulo }}">
+  </div>
+{% endif %}
 
 <div class="contenedor">
+  <div class="articulo">
+    <h1 class="titulo fs4">{{ nombre }}</h1>
+    <div class="contenido">
+      {{ content | safe }}
+    </div>
+  </div>
+</div>
 
-  <h1>{{ nombre }}</h1>
+<div class="gris">
+  <div class="contenedor">
 
-  {{ content | safe }}
+    <h2 class="fs3">Obras de {{ nombre }}</h2>
 
-  {% set obras = collections.obras %}
-  {% include "obrasartista.njk" %}
+    {% set listado = collections.obras %}
+    {% include "layouts/partials/obrasartista.njk" %}
 
+  </div>
 </div>

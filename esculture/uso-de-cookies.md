@@ -1,6 +1,6 @@
 ---
 titulo: Uso de cookies
-imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1671169725/cld-sample.jpg
+imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1672158726/web/taller.jpg
 ---
 Una Cookie es un fichero que se descarga en su ordenador al acceder a determinadas páginas web. Las cookies permiten a una página web, entre otras cosas, almacenar y recuperar información sobre los hábitos de navegación de un usuario o de su equipo y, dependiendo de la información que contenga y de la forma en que utilice su equipo, pueden utilizarse para reconocer al usuario.
 

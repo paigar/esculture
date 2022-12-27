@@ -1,6 +1,6 @@
 ---
 titulo: Sobre nosotros
-imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1672152193/obras/107.jpg
+imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1672158726/web/taller.jpg
 templateClass: nosotros
 ---
 **Esculture** es una nueva a proximación a la disciplina. Se trabaja en alianza con el escultor para hacerte llegar a ti, amante de la escultura, un acercamiento más intimo a su obra.

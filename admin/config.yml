@@ -29,6 +29,10 @@ collections:
         name: "instagram"
         widget: "string"
         required: false
+      - label: "Página web"
+        name: "paginaweb"
+        widget: "string"
+        required: false
       - label: "Biografía del artista"
         name: "body"
         widget: "markdown"
@@ -48,9 +52,9 @@ collections:
         name: "artista"
         widget: "relation"
         collection: "artistas"
-        search_fields: ["title"]
-        value_field: "title"
-        display_fields: ["title"]
+        search_fields: ["nombre"]
+        value_field: "nombre"
+        display_fields: ["nombre"]
       - label: "Imagen principal"
         name: "imagen"
         widget: "image"

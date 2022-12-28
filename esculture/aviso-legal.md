@@ -1,18 +1,18 @@
 ---
 titulo: Aviso Legal
-imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1672158726/web/taller.jpg
 ---
+
 ## Condiciones de uso
 
 En este apartado se incluye información sobre las condiciones de acceso y utilización de este sitio web que deben ser conocidas por el usuario. Información general sobre\
 www.webdelaempresa.com, a los efectos previstos en la Ley 34/2002 de Servicios de la Sociedad de la Información y de Comercio Electrónico.
 
-* Titular:  Empresa, S.L.       
-* NIF:  XXXXX   
-* Domicilio Social:  XXXXXX       
-* E-mail:  info@webdelaempresa.com 
-* Teléfono:  XXX XXX XXX  
-* Datos Registrales: Registro Mercantil de XXX; Tomo  XXX, Folio   XXX, Secc.     , Hoja  XXX    , Inscripción XXX   
+- Titular:  Empresa, S.L.
+- NIF:  XXXXX
+- Domicilio Social:  XXXXXX
+- E-mail:  info@webdelaempresa.com
+- Teléfono:  XXX XXX XXX
+- Datos Registrales: Registro Mercantil de XXX; Tomo  XXX, Folio   XXX, Secc.     , Hoja  XXX    , Inscripción XXX
 
 ### 1. Finalidad de la web www.webdelaempresa.com
 

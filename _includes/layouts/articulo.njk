@@ -1,17 +1,19 @@
 ---
 layout: "layouts/base.njk"
 ---
-{% if imagen %}
-  <div class="imagencabecera cubrir">
-    <img src="{{ imagen }}" alt="{{ titulo }}">
-  </div>
+{% if imagen is not defined %}
+  {% set imagen = "https://res.cloudinary.com/dasijlpgz/image/upload/v1672158726/web/taller.jpg" %}
 {% endif %}
+
+<div class="imagencabecera cubrir">
+  <img src="{{ imagen }}" alt="{{ titulo }}">
+</div>
 
 <div class="contenedor">
 
   <div class="articulo">
 
-    <h1 class="titulo fs4">{{ titulo }}</h1>
+    <h1 class="titulo fs3">{{ titulo }}</h1>
     <div class="contenido">
 
       {{ content | safe }}</div>

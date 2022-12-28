@@ -205,6 +205,7 @@ body {
   background-color: var(--clr-fondo);
   width: 100%;
   height: var(--cabecera-altura-ext);
+  box-shadow: 0 0 5px 0 var(--clr-texto-200);
 }
 .cabecera .contenedor {
   display: flex;
@@ -362,7 +363,7 @@ main {
   object-fit: cover;
 }
 .imagencabecera {
-  height: clamp(15rem, 60vh, 40rem);
+  height: clamp(15rem, 50vmin, 40rem);
   position: relative;
 }
 .titulohome {
@@ -418,7 +419,7 @@ main {
   top: -0.25em;
   left: -0.25em;
   z-index: -1;
-  opacity: 0.4;
+  opacity: 0.2;
   font-weight: 700;
   color: var(--clr-texto-200);
   animation: marcaagua 60s infinite;
@@ -500,12 +501,8 @@ main {
 }
 .articulo .titulo {
   width: fit-content;
-  background-color: var(--clr-texto-400);
   color: var(--clr-fondo);
-  padding: 0.3em 1em 0.3em 0.8em;
-  margin-top: -0.5em;
-  margin-left: -0.8em;
-  transform: skew(-10deg);
+  margin: -1.5em 0 1em;
   text-shadow: 0.05em -0.1em 1rem var(--clr-texto-300);
 }
 .nosotros .contenido {

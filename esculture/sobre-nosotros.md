@@ -3,9 +3,6 @@ titulo: Sobre nosotros
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1672160717/web/nosotros.jpg
 templateClass: nosotros
 ---
+**Esculture** es una manera diferente de mostrar la escultura para hacerte llegar a ti, amante de esta disciplina, un acercamiento más íntimo a cada obra.
 
-**Esculture** es una nueva a proximación a la disciplina. Se trabaja en alianza con el escultor para hacerte llegar a ti, amante de la escultura, un acercamiento más intimo a su obra.
-
-Se combina **una red de escultores de confianza cuidadosamente seleccionados** y un catálogo de escultura a partir de contenido multimedia generado por el propio equipo de Esculture.
-
-El perfil del escultor y su obra se recoge en foto y vídeo, obteniendo una cercanía a texturas, formas y volúmenes **como nunca antes has visto**.
+L.a escultura se recoge en foto y video haciendo más accesibles volúmenes y texturas.

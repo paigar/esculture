@@ -1,6 +1,6 @@
 ---
 titulo: Nuevo país
-artista: Amaia Azpitarte
+artista: Alberto Etxenagusia
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1672152193/obras/105.jpg
 video: https://res.cloudinary.com/dasijlpgz/video/upload/v1672152262/obras/david2.mp4
 galeria:

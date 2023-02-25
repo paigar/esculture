@@ -11,4 +11,8 @@ galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1677353280/artistas/Eskerri/Medusa1/P1050044.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1677353277/artistas/Eskerri/Medusa1/P1050043.jpg
 ---
-M﻿edusa 1 es una obra llevada a cabo después de la inspiración en mundo marinero.
+M﻿edusa 1 es una obra  sadflknasdlfkn
+
+I﻿nspirada eb en dfafdlakjl
+
+L﻿levada a cabo seguún inspeiración dfakjndñfkjnadskfjaskd

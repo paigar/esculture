@@ -1,5 +1,5 @@
 ---
 nombre: José Luis González Pazos
-imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1676841380/artistas/Jos%C3%A9%20Luis%20Gonz%C3%A1lez%20Pazos/Nombre.png
+imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1679138873/artistas/Carlos%20L%C3%B3pez%20de%20Ceballos/foto_negra.jpg
 ---
 s﻿fsdfasfsdf

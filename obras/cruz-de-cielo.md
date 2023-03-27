@@ -2,7 +2,7 @@
 titulo: Cruz de Cielo
 artista: Carlos López De Ceballos
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1679950113/artistas/Carlos%20L%C3%B3pez%20de%20Ceballos/Cruz%20de%20Cielo/P1050377.jpg
-video: https://res.cloudinary.com/dasijlpgz/video/upload/v1679951780/artistas/Carlos%20L%C3%B3pez%20de%20Ceballos/Cruz%20de%20Cielo/230327_Cuarta_Toma2.mp4
+video: https://res.cloudinary.com/dasijlpgz/video/upload/v1679146586/artistas/Eskerri/Medusa1/230318_Medusa_COMPRESSED.mp4
 galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1679950113/artistas/Carlos%20L%C3%B3pez%20de%20Ceballos/Cruz%20de%20Cielo/P1050377.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1679950114/artistas/Carlos%20L%C3%B3pez%20de%20Ceballos/Cruz%20de%20Cielo/P1050380.jpg

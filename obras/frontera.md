@@ -2,7 +2,7 @@
 titulo: Frontera
 artista: Amaia Conde
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1680375399/artistas/Amaia%20Conde/Frontera/P1050512.jpg
-video: https://res.cloudinary.com/dasijlpgz/video/upload/v1680374202/artistas/Amaia%20Conde/Frontera/230401_Refugiada-1_compressed.mp4
+video: https://res.cloudinary.com/dasijlpgz/video/upload/v1680376760/artistas/Amaia%20Conde/Frontera/230401_refugiada-1.mp4
 galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1680375399/artistas/Amaia%20Conde/Frontera/P1050512.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1680375399/artistas/Amaia%20Conde/Frontera/P1050509.jpg
@@ -15,4 +15,4 @@ galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1680375401/artistas/Amaia%20Conde/Frontera/P1050526.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1680375402/artistas/Amaia%20Conde/Frontera/P1050530.jpg
 ---
-F﻿rontera
+F﻿rontera nacío de una foto de 2018 de la fotógrafa vizcaina Marta Pérez de Elosua, en la frontera de Macedonia con Grecia en campo de refugiados en Idomeni.

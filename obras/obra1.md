@@ -1,5 +1,5 @@
 ---
-titulo: Pablo Z, - Obra1
+titulo: Pablo Z. - Obra1
 artista: Pablo Zuriarrain
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1680370131/artistas/Pablo%20Zuriarrain/P1050440.jpg
 video: https://res.cloudinary.com/dasijlpgz/video/upload/v1680370132/artistas/Pablo%20Zuriarrain/230401_obra_1-1_compressed.mp4

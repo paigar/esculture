@@ -1,20 +1,14 @@
 ---
-titulo: Mussa
+titulo: ;Medusa
 artista: Eskerri
-imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1679146575/artistas/Eskerri/Medusa1/P1050257.jpg
-video: https://res.cloudinary.com/dasijlpgz/video/upload/v1679146586/artistas/Eskerri/Medusa1/230318_Medusa_COMPRESSED.mp4
+imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1681380554/artistas/Eskerri/Medusa1/Snapshot_138.png
+video: https://res.cloudinary.com/dasijlpgz/video/upload/v1681380391/artistas/Eskerri/Medusa1/VE_Project_2_compressed.mp4
 galeria:
-  - https://res.cloudinary.com/dasijlpgz/image/upload/v1679146575/artistas/Eskerri/Medusa1/P1050257.jpg
-  - https://res.cloudinary.com/dasijlpgz/image/upload/v1679146576/artistas/Eskerri/Medusa1/P1050260.jpg
-  - https://res.cloudinary.com/dasijlpgz/image/upload/v1679146576/artistas/Eskerri/Medusa1/P1050259.jpg
-  - https://res.cloudinary.com/dasijlpgz/image/upload/v1679146577/artistas/Eskerri/Medusa1/P1050262.jpg
-  - https://res.cloudinary.com/dasijlpgz/image/upload/v1679146579/artistas/Eskerri/Medusa1/P1050264.jpg
-  - https://res.cloudinary.com/dasijlpgz/image/upload/v1679146578/artistas/Eskerri/Medusa1/P1050266.jpg
-  - https://res.cloudinary.com/dasijlpgz/image/upload/v1679146583/artistas/Eskerri/Medusa1/P1050270.jpg
-  - https://res.cloudinary.com/dasijlpgz/image/upload/v1679146581/artistas/Eskerri/Medusa1/P1050267.jpg
-  - https://res.cloudinary.com/dasijlpgz/image/upload/v1679146582/artistas/Eskerri/Medusa1/P1050269.jpg
-  - https://res.cloudinary.com/dasijlpgz/image/upload/v1679146585/artistas/Eskerri/Medusa1/P1050271.jpg
-  - https://res.cloudinary.com/dasijlpgz/image/upload/v1679146581/artistas/Eskerri/Medusa1/P1050268.jpg
-  - https://res.cloudinary.com/dasijlpgz/image/upload/v1679146585/artistas/Eskerri/Medusa1/P1050272.jpg
+  - https://res.cloudinary.com/dasijlpgz/image/upload/v1681380554/artistas/Eskerri/Medusa1/Snapshot_138.png
+  - https://res.cloudinary.com/dasijlpgz/image/upload/v1681380377/artistas/Eskerri/Medusa1/P1050567.jpg
+  - https://res.cloudinary.com/dasijlpgz/image/upload/v1681380377/artistas/Eskerri/Medusa1/P1050569.jpg
+  - https://res.cloudinary.com/dasijlpgz/image/upload/v1681380377/artistas/Eskerri/Medusa1/P1050571.jpg
+  - https://res.cloudinary.com/dasijlpgz/image/upload/v1681380377/artistas/Eskerri/Medusa1/P1050572.jpg
+  - https://res.cloudinary.com/dasijlpgz/image/upload/v1681380377/artistas/Eskerri/Medusa1/P1050570.jpg
 ---
 M﻿usa3

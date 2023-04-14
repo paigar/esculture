@@ -2,7 +2,7 @@
 titulo: Elegía
 artista: Amaia Conde
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1681467495/artistas/Amaia%20Conde/Eleg%C3%ADa/P1050608.jpg
-video: https://res.cloudinary.com/dasijlpgz/video/upload/v1681467498/artistas/Amaia%20Conde/Eleg%C3%ADa/VE_Project_2-2_compressed.mp4
+video: https://res.cloudinary.com/dasijlpgz/video/upload/v1681468357/artistas/Amaia%20Conde/Eleg%C3%ADa/VE_Project_2-3.mp4
 galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1681467495/artistas/Amaia%20Conde/Eleg%C3%ADa/P1050608.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1681467495/artistas/Amaia%20Conde/Eleg%C3%ADa/P1050605.jpg

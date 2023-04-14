@@ -2,7 +2,7 @@
 titulo: Frontera
 artista: Amaia Conde
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1681465228/artistas/Amaia%20Conde/Frontera/P1050598.jpg
-video: https://res.cloudinary.com/dasijlpgz/video/upload/v1681465789/artistas/Amaia%20Conde/Frontera/VE_Project_2-4.mp4
+video: https://res.cloudinary.com/dasijlpgz/video/upload/v1681466118/artistas/Amaia%20Conde/Frontera/VE_Project_2-5.mp4
 galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1681465228/artistas/Amaia%20Conde/Frontera/P1050598.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1681465230/artistas/Amaia%20Conde/Frontera/P1050601.jpg

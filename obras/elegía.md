@@ -1,0 +1,19 @@
+---
+titulo: Elegía
+artista: Amaia Conde
+imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1681467495/artistas/Amaia%20Conde/Eleg%C3%ADa/P1050608.jpg
+video: https://res.cloudinary.com/dasijlpgz/video/upload/v1681467498/artistas/Amaia%20Conde/Eleg%C3%ADa/VE_Project_2-2_compressed.mp4
+galeria:
+  - https://res.cloudinary.com/dasijlpgz/image/upload/v1681467495/artistas/Amaia%20Conde/Eleg%C3%ADa/P1050608.jpg
+  - https://res.cloudinary.com/dasijlpgz/image/upload/v1681467495/artistas/Amaia%20Conde/Eleg%C3%ADa/P1050605.jpg
+  - https://res.cloudinary.com/dasijlpgz/image/upload/v1681467495/artistas/Amaia%20Conde/Eleg%C3%ADa/P1050604.jpg
+---
+O﻿bra de Amaia Conde inspirada en foto que dio lugar a poema de mismo nombre
+
+M﻿adera de Sabina de dimensiones 35cm alto, 25cm ancho y 3cm espesor.
+
+*"Pusiste abismos en todo el aire que pintaste, en tu cuarto remolinos negros, en tu silla junto a la mía precipicios. Embudos en los retrovisores, en los ojos ajenos despeñaderos.*
+
+*Mis labios están caducos e inversos, mis oídos sólo saben de barrancos y mis manos ahuecan las piedras. En mi pecho habitan las simas y en mi corazón, averno.*
+
+*Porque arrancaste la hierba, apagaste las luces … ahora ando sobre grúas. De tanto agujero, la solidez del mundo se me hace invisible y las horas sólo son acantilados de espejos."*

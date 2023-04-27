@@ -363,7 +363,7 @@ main {
   object-fit: cover;
 }
 .imagencabecera {
-  height: clamp(15rem, 50vmin, 40rem);
+  height: min(100vh - var(--cabecera-altura-ext), 56.25vw);
   position: relative;
 }
 .titulohome {
@@ -507,15 +507,58 @@ main {
 }
 .nosotros .contenido {
   font-size: var(--fs-1);
-  max-width: 50ch;
+  max-width: 100%;
   margin-inline: auto;
+}
+.nosotros .contenido * + * {
+  margin-top: 1em;
+}
+.nosotros .contenido h2 {
+  background-color: var(--clr-primario);
+  color: var(--clr-texto-100);
+  padding: 0.7em 2.5rem;
+  line-height: 1.2;
+  border-radius: 0.5rem;
+  font-size: var(--fs-2);
+}
+.nosotros .contenido p {
+  max-width: 50ch;
+  margin-left: 2.5rem;
 }
 .artistas {
   padding: 5vmin 0;
 }
+.artista .barraizq {
+  display: grid;
+  gap: 1rem;
+}
+.artista .infoautor {
+  background-color: var(--clr-primario);
+  color: var(--clr-texto-100);
+  padding: 1.5rem;
+  border-radius: 0.5rem;
+  display: grid;
+  gap: 1rem;
+  align-content: flex-start;
+  font-size: var(--fs--1);
+}
+.artista .infoautor > div {
+  display: grid;
+  grid-template-columns: 1.5rem 1fr;
+  gap: 1rem;
+  align-items: center;
+}
+.artista .infoautor a {
+  color: var(--clr-texto-100);
+}
+.artista .infoautor svg {
+  fill: var(--clr-texto-200);
+}
 .artista .contenido {
-  max-width: 50ch;
-  margin-inline: auto;
+  padding: 1.5rem 0;
+}
+.artista .contenido * + * {
+  margin-top: 1em;
 }
 .listado {
   display: grid;
@@ -542,35 +585,37 @@ main {
   transition: opacity var(--tiempo);
 }
 .listado .imglistado {
-  filter: blur(5px);
+  filter: blur(0);
   transition: filter var(--tiempo), transform calc(var(--tiempo) * 2);
 }
 .listado .nombre {
   position: absolute;
   display: block;
-  top: 50%;
+  top: 100%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -100%);
   z-index: 2;
   color: var(--clr-fondo);
   margin: 0;
   text-align: center;
-  font-size: var(--fs-2);
+  font-size: var(--fs-1);
   transition: all var(--tiempo);
   padding: 0.5em;
   width: 100%;
+  background: rgba(0, 0, 0, 0.2);
 }
 .listado .elemento a:hover::after {
   opacity: 0;
 }
 .listado .elemento a:hover .imglistado {
-  filter: blur(0);
+  filter: blur(5px);
   transform: scale(1.2);
 }
 .listado .elemento a:hover .nombre {
-  top: 100%;
-  transform: translate(-50%, -100%);
-  font-size: var(--fs-1);
+  top: 50%;
+  transform: translate(-50%, -50%);
+  font-size: calc(1.4 * var(--fs-1));
+  background: rgba(0, 0, 0, 0);
 }
 .obra .contenedor {
   margin-block: 10vmin;
@@ -627,6 +672,64 @@ main {
   list-style: none;
   padding: 0;
 }
+.contacto .doscol {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+}
+.nosotros .imagencabecera,
+.contacto .imagencabecera {
+  max-height: 60vh;
+}
+.formulario input {
+  width: 100%;
+  margin: 0 0 0.5rem;
+  height: 3rem;
+  font-family: "Titillium Web", sans-serif;
+  font-size: 1.2rem;
+  border: 1px solid #ccc;
+  outline: none;
+  border-radius: 5px;
+  line-height: 1.4em;
+  padding: 0.3rem 0.75rem;
+}
+.formulario input:last-of-type {
+  margin-bottom: 0;
+}
+.formulario textarea {
+  width: 100%;
+  height: 100%;
+  margin: 0 0 0.5rem;
+  resize: none;
+  font-family: "Titillium Web", sans-serif;
+  font-size: 1.2rem;
+  border: 1px solid #ccc;
+  outline: none;
+  border-radius: 5px;
+  line-height: 1.4em;
+  padding: 0.3rem 0.75rem;
+}
+.formulario .legal input {
+  width: auto;
+  height: auto;
+  margin: 0 1rem 0 0;
+  vertical-align: middle;
+}
+.formulario button {
+  background: var(--clr-primario);
+  color: var(--clr-texto-100);
+  padding: 0.5rem 2rem;
+  border: 2px solid var(--clr-primario);
+  float: right;
+  font-size: 1.2rem;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 300ms;
+}
+.formulario button:hover {
+  background: var(--clr-texto-100);
+  color: var(--clr-primario);
+}
 
 @media screen and (min-width: 50rem) {
   .tituloizq {
@@ -651,5 +754,14 @@ main {
   }
   .listado {
     grid-template-columns: 1fr 1fr;
+  }
+  .artista .barraizq {
+    grid-template-columns: 1fr 18rem;
+    gap: 4rem;
+  }
+  .artista .infoautor {
+    align-self: flex-start;
+    position: sticky;
+    top: calc(var(--cabecera-altura-ext) + 2rem);
   }
 }

@@ -12,15 +12,47 @@ templateClass: artista
 <div class="contenedor">
   <div class="articulo">
     <h1 class="titulo fs4">{{ nombre }}</h1>
-    <div class="contenido">
-      {{ content | safe }}
+    <div class="barraizq">
+      <div class="contenido">
+        {{ content | safe }}
+      </div>
+      <div class="infoautor">
+        {% if paginaweb %}
+          <div>
+            {% include 'icons/web.svg' %}
+            <a href="https://{{ paginaweb }}" target="_blank">{{ paginaweb }}</a>
+          </div>
+        {% endif %}
+        {% if email %}
+          <div>
+            {% include 'icons/email.svg' %}
+            <a href="mailto:{{ email }}"  target="_blank">{{ email }}</a>
+          </div>
+        {% endif %}
+        {% if telefono %}
+          <div>
+            {% include 'icons/phone.svg' %}
+            <a href="tel:+34{{ telefono }}">{{ telefono }}</a>
+          </div>
+        {% endif %}
+        {% if instagram %}
+          <div>
+            {% include 'icons/ig.svg' %}
+            <a href="https://www.instagram.com/{{ instagram }}" target="_blank">@{{ instagram }}</a>
+          </div>
+        {% endif %}
+        <div>
+          {% include 'icons/art.svg' %}
+          <a href="#obrasautor">Ver obras</a>
+        </div>
+      </div>
     </div>
   </div>
 </div>
 
 <div class="gris">
+  <a class="ancla" id="obrasautor"></a>
   <div class="contenedor">
-
     <h2 class="fs3">Obras de {{ nombre }}</h2>
 
     {% set listado = collections.obras %}

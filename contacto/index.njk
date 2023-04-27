@@ -1,0 +1,40 @@
+---
+layout: layouts/articulo.njk
+titulo: Contacta con Esculture
+imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1672162639/web/contacto.jpg
+templateClass: contacto
+---
+
+<div class="formulario">
+  <p>¿Tiene preguntas o está buscando más información sobre Esculture?</p>
+  <p>Rellena el formulario con dudas, consultas y tus datos, nos pondremos en contacto lo antes posible. Los campos con asterisco (*) son necesarios para localizarte</p>
+  <form id="suventform" action="index.php?option=com_formulario" enctype="multipart/form-data" method="post">
+    <div class="doscol">
+      <div><input title="Mínimo 3 caracteres" name="nombre" pattern=".{3,}" required="" type="text" placeholder="* Nombre">
+        <input title="Formato de email no válido" name="email" pattern="[^@\s]+@[^@\s]+\.[^@\s]+" required="" type="text" placeholder="* Mail">
+        <input name="telefono" type="text" placeholder="Teléfono"></div>
+      <div>
+        <textarea name="tema" rows="4" placeholder="Tema"></textarea>
+      </div>
+      <div>
+        <div class="legal"><input id="legal" required="" type="checkbox">
+          <label for="legal">Acepto la <a href="/politica-de-privacidad" target="_blank" rel="noopener">política de privacidad</a>
+          </label>
+        </div>
+      </div>
+      <div class="enviar">
+        <button type="submit">Enviar</button>
+      </div>
+    </div>
+    <div class="recaptcha-holder">
+      <div class="grecaptcha-badge" data-style="bottomright" style="width: 256px; height: 60px; display: block; transition: right 0.3s ease 0s; position: fixed; bottom: 14px; right: -186px; box-shadow: gray 0px 0px 5px; border-radius: 2px; overflow: hidden;">
+        <div class="grecaptcha-logo">
+          <iframe title="reCAPTCHA" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LcyGWscAAAAAHAqXQiRyqzUbEhgyl6ONr2878hB&amp;co=aHR0cHM6Ly93d3cuYWx1cGxhc3RpYmVyaWNhLmNvbTo0NDM.&amp;hl=es&amp;v=4PnKmGB9wRHh1i04o7YUICeI&amp;size=invisible&amp;badge=bottomright&amp;cb=ck5324mwsj0j" role="presentation" name="a-yp8mcyyk6lqo" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" width="256" height="60" frameborder="0"></iframe>
+        </div>
+        <div class="grecaptcha-error"></div>
+        <textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea>
+      </div>
+      <iframe style="display: none;"></iframe>
+    </div>
+  </form>
+</div>

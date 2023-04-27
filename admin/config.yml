@@ -25,12 +25,20 @@ collections:
         widget: "image"
         choose_url: false
         allow_multiple: false
-      - label: "Instagram"
-        name: "instagram"
-        widget: "string"
-        required: false
       - label: "Página web"
         name: "paginaweb"
+        widget: "string"
+        required: false
+      - label: "Correo electrónico"
+        name: "email"
+        widget: "string"
+        required: false
+      - label: "Teléfono"
+        name: "telefono"
+        widget: "string"
+        required: false
+      - label: "Instagram"
+        name: "instagram"
         widget: "string"
         required: false
       - label: "Biografía del artista"
@@ -55,6 +63,10 @@ collections:
         search_fields: ["nombre"]
         value_field: "nombre"
         display_fields: ["nombre"]
+      - label: "Precio"
+        name: "precio"
+        widget: "string"
+        required: false
       - label: "Imagen principal"
         name: "imagen"
         widget: "image"

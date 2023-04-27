@@ -16,7 +16,7 @@ templateClass: artista
       <div class="contenido">
         {{ content | safe }}
       </div>
-      <div class="infoautor">
+      {#       <div class="infoautor">
         {% if paginaweb %}
           <div>
             {% include 'icons/web.svg' %}
@@ -41,11 +41,11 @@ templateClass: artista
             <a href="https://www.instagram.com/{{ instagram }}" target="_blank">@{{ instagram }}</a>
           </div>
         {% endif %}
-        {#         <div>
+                <div>
           {% include 'icons/art.svg' %}
           <a href="#obrasautor">Ver obras</a>
-        </div> #}
-      </div>
+        </div>
+      </div> #}
     </div>
   </div>
 </div>

@@ -556,6 +556,8 @@ main {
 }
 .artista .contenido {
   padding: 1.5rem 0;
+  max-width: 60ch;
+  margin-inline: auto;
 }
 .artista .contenido * + * {
   margin-top: 1em;
@@ -760,7 +762,7 @@ main {
     grid-template-columns: 1fr 1fr;
   }
   .artista .barraizq {
-    grid-template-columns: 1fr 18rem;
+    grid-template-columns: 1fr;
     gap: 4rem;
   }
   .artista .infoautor {

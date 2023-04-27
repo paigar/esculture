@@ -674,8 +674,7 @@ main {
 }
 .contacto .doscol {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 2rem;
+  gap: 1rem;
 }
 .nosotros .imagencabecera,
 .contacto .imagencabecera {
@@ -730,6 +729,11 @@ main {
   background: var(--clr-texto-100);
   color: var(--clr-primario);
 }
+.detallesobra .titulo span {
+  display: block;
+  font-size: 0.5em;
+  margin-top: 0.5em;
+}
 
 @media screen and (min-width: 50rem) {
   .tituloizq {
@@ -763,5 +767,9 @@ main {
     align-self: flex-start;
     position: sticky;
     top: calc(var(--cabecera-altura-ext) + 2rem);
+  }
+  .contacto .doscol {
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
   }
 }

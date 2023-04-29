@@ -1,7 +1,7 @@
 ---
 nombre: Eskerri
-imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1679138873/artistas/Carlos%20L%C3%B3pez%20de%20Ceballos/foto_negra.jpg
-instagram: "@eskerri"
+imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1682762003/artistas/Eskerri/IMG-20230428-WA0016.jpg
 paginaweb: eskerri@eskerri.es
+instagram: "@eskerri"
 ---
 E﻿skerri es un escultor .....

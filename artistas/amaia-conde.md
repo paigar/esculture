@@ -1,10 +1,10 @@
 ---
 nombre: Amaia Conde
-imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1679138873/artistas/Carlos%20L%C3%B3pez%20de%20Ceballos/foto_negra.jpg
-email: amaia@conde.es
+imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1682761931/artistas/Amaia%20Conde/ACC-19_3.jpg
 paginaweb: www.amaiaconde.es
+email: amaia@conde.es
 telefono: 666666666
-instagram: "dafasf"
+instagram: dafasf
 ---
 
 Cuando era una niña inquieta, solo encontraba paz al trabajar con una sierra de marquetería. Nunca imaginé que mi amor por la madera se convertiría en mi carrera profesional.

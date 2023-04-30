@@ -1,7 +1,7 @@
 ---
 titulo: Medusa
 artista: Eskerri
-imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1681380554/artistas/Eskerri/Medusa1/Snapshot_138.png
+imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1681752367/artistas/Eskerri/Medusa1/Snapshot_139.png
 video: https://res.cloudinary.com/dasijlpgz/video/upload/v1681752039/artistas/Eskerri/Medusa1/VE_Project_2-1.mp4
 galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1681752367/artistas/Eskerri/Medusa1/Snapshot_139.png

@@ -1,12 +1,12 @@
 ---
 titulo: Elegía
 artista: Amaia Conde
-imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1681467495/artistas/Amaia%20Conde/Eleg%C3%ADa/P1050608.jpg
-video: https://res.cloudinary.com/dasijlpgz/video/upload/v1681468357/artistas/Amaia%20Conde/Eleg%C3%ADa/VE_Project_2-3.mp4
+imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1683195150/artistas/Amaia%20Conde/Eleg%C3%ADa/P1050606.jpg
+video: https://res.cloudinary.com/dasijlpgz/video/upload/v1683195151/artistas/Amaia%20Conde/Eleg%C3%ADa/230504_project.mp4
 galeria:
-  - https://res.cloudinary.com/dasijlpgz/image/upload/v1681467495/artistas/Amaia%20Conde/Eleg%C3%ADa/P1050608.jpg
-  - https://res.cloudinary.com/dasijlpgz/image/upload/v1681467495/artistas/Amaia%20Conde/Eleg%C3%ADa/P1050605.jpg
-  - https://res.cloudinary.com/dasijlpgz/image/upload/v1681467495/artistas/Amaia%20Conde/Eleg%C3%ADa/P1050604.jpg
+  - https://res.cloudinary.com/dasijlpgz/image/upload/v1683195150/artistas/Amaia%20Conde/Eleg%C3%ADa/P1050608.jpg
+  - https://res.cloudinary.com/dasijlpgz/image/upload/v1683195150/artistas/Amaia%20Conde/Eleg%C3%ADa/P1050606.jpg
+  - https://res.cloudinary.com/dasijlpgz/image/upload/v1683195150/artistas/Amaia%20Conde/Eleg%C3%ADa/P1050604.jpg
 ---
 
 O﻿bra de Amaia Conde inspirada en foto que dio lugar a poema de mismo nombre

@@ -1,5 +1,5 @@
 ---
-titulo: Jose Luis 5
+titulo: El color de la vida
 artista: José Luis González Pazos
 precio: ""
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1682764782/artistas/Jos%C3%A9%20Luis%20Gonz%C3%A1lez%20Pazos/Obra5/P1050615_2.jpg
@@ -11,4 +11,4 @@ galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1682764783/artistas/Jos%C3%A9%20Luis%20Gonz%C3%A1lez%20Pazos/Obra5/P1050623_2.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1682764782/artistas/Jos%C3%A9%20Luis%20Gonz%C3%A1lez%20Pazos/Obra5/P1050619_2.jpg
 ---
-E﻿sta obra está originada como una reflexión ...
+Gres

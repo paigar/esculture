@@ -28,12 +28,14 @@ templateClass: obra
 
 </div>
 
-<div draggable="true" class="galeria">
-  {% for imagen in galeria %}
-    <div class="elementogaleria">
-      <img src="{{imagen}}" alt="">
-    </div>
-  {% endfor %}
+<div class="contenedor">
+  <div class="main-carousel" data-flickity='{ "autoPlay": "true", "contain": "true", "dragThreshold": 25 }'>
+    {% for imagen in galeria %}
+      <div class="carousel-cell">
+        <img src="{{imagen}}" alt="">
+      </div>
+    {% endfor %}
+  </div>
 </div>
 
 <div class="contenedor contacto">
@@ -70,3 +72,5 @@ templateClass: obra
   </div>
 
 </div>
+
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>

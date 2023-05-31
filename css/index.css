@@ -668,11 +668,38 @@ main {
   display: grid;
   gap: 1rem;
   width: 70%;
-  margin: 0 auto;
+  margin: 5vh auto 0;
 }
 .menupie .nav {
   list-style: none;
   padding: 0;
+}
+.pie .lema {
+  text-align: center;
+  font-size: 1.5em;
+  line-height: 1.3;
+  font-style: italic;
+  width: 80%;
+  margin: 0 auto;
+}
+.infopie .rrss {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+.infopie .rrss svg {
+  fill: var(--clr-texto-800);
+  height: 1.9rem;
+}
+.infopie .rrss a {
+  display: grid;
+  place-items: center;
+  background: var(--clr-texto-100);
+  border-radius: 100%;
+  width: 3rem;
+  height: 3rem;
 }
 .contacto .doscol {
   display: grid;
@@ -735,6 +762,61 @@ main {
   display: block;
   font-size: 0.5em;
   margin-top: 0.5em;
+}
+.main-carousel {
+  margin-bottom: 10vh;
+}
+.carousel-cell {
+  width: 100%;
+}
+.obraelegida {
+  height: calc(100vh - var(--cabecera-altura-ext));
+  display: grid;
+  grid-template-columns: 1fr 80% 1fr;
+  padding: 8vh 0;
+  align-items: center;
+  animation: aparecer 3s;
+}
+@keyframes aparecer {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.obraelegida .flecha {
+  height: 100%;
+  display: grid;
+  place-content: center;
+}
+.imagenobraelegida {
+  height: 100%;
+}
+.imagenobraelegida a {
+  display: block;
+  position: relative;
+  height: 100%;
+  overflow: hidden;
+}
+.imagenobraelegida a img {
+  transition: filter 500ms;
+}
+.imagenobraelegida a:hover {
+  opacity: 1;
+}
+.imagenobraelegida a:hover img {
+  filter: blur(1px) grayscale(20%);
+}
+.imagenobraelegida .titulo {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  font-weight: 700;
+  color: var(--clr-fondo);
+  font-size: var(--fs-3);
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 @media screen and (min-width: 50rem) {

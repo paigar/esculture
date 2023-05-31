@@ -11,6 +11,9 @@
     <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
     <link rel="stylesheet" href="{{ '/css/prism-base16-monokai.dark.css' | url }}">
     <link rel="stylesheet" href="{{ '/css/prism-diff.css' | url }}">
+    {% if templateClass == 'obra' %}
+      <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
+    {% endif %}
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
     <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
@@ -36,6 +39,9 @@
             <li class="nav-item{% if "artistas" in page.url %} nav-item-active{% endif %}">
               <a href="/artistas/">Artistas</a>
             </li>
+            <li class="nav-item{% if "descubre" in page.url %} nav-item-active{% endif %}">
+              <a href="/descubre/">Descubre</a>
+            </li>
             <li class="nav-item{% if "contacto" in page.url %} nav-item-active{% endif %}">
               <a href="/contacto/">Contacto</a>
             </li>
@@ -53,6 +59,9 @@
 
     <footer class="pie">
       <div class="contenedor">
+        <div class="lema">
+          <p>"Un acercamiento más personal a la escultura"</p>
+        </div>
         <div class="infopie">
           <div class="logopie">
             {% include 'icons/logo.svg' %}
@@ -64,6 +73,9 @@
               </li>
               <li class="nav-item{% if "artistas" in page.url %} nav-item-active{% endif %}">
                 <a href="/artistas/">Artistas</a>
+              </li>
+              <li class="nav-item{% if "descubre" in page.url %} nav-item-active{% endif %}">
+                <a href="/descubre/">Descubre</a>
               </li>
               <li class="nav-item{% if "contacto" in page.url %} nav-item-active{% endif %}">
                 <a href="/contacto/">Contacto</a>
@@ -81,10 +93,15 @@
               <li class="nav-item{% if "cookies" in page.url %} nav-item-active{% endif %}">
                 <a href="/uso-de-cookies/">Uso de cookies</a>
               </li>
+              <li class="nav-item{% if "cookies" in page.url %} nav-item-active{% endif %}">
+                <a href="/uso-de-cookies/">Mapa del sitio</a>
+              </li>
             </ul>
           </div>
-          <div class="lema">
-            <p>"Un acercamiento más personal a la escultura"</p>
+          <div class="rrss">
+            <a href="https://www.instagram.com/esculture.es/" target="_blank">{% include 'icons/ig.svg' %}</a>
+            <a href="https://www.youtube.com/@esculture_es" target="_blank">{% include 'icons/yt.svg' %}</a>
+            <a href="https://www.tiktok.com/@esculture.es" target="_blank">{% include 'icons/tt.svg' %}</a>
           </div>
         </div>
       </div>

@@ -1,6 +1,6 @@
 ---
 titulo: Si te gusta la escultura...
-imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1672160717/web/nosotros.jpg
+imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1686721190/web/cabecera-publico.jpg
 templateClass: nosotros
 permalink: /sobre-nosotros/para-visitantes/
 ---

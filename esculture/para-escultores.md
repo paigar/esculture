@@ -1,6 +1,6 @@
 ---
 titulo: Ventajas para escultores
-imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1672160717/web/nosotros.jpg
+imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1686721051/web/cabecera-artistas.jpg
 templateClass: nosotros
 permalink: /sobre-nosotros/para-escultores/
 ---

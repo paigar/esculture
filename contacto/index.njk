@@ -5,12 +5,19 @@ imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1672162639/web/contac
 templateClass: contacto
 ---
 
+<div class="nosotros">
+  <div class="contenido">
+    <h2>¿Tiene preguntas o está buscando más información sobre Esculture?</h2>
+  </div>
+</div>
 <div class="formulario">
-  <p>¿Tiene preguntas o está buscando más información sobre Esculture?</p>
+  <br>
   <p>Rellena el formulario con dudas, consultas y tus datos, nos pondremos en contacto lo antes posible. Los campos con asterisco (*) son necesarios para localizarte</p>
-  <form id="suventform" action="index.php?option=com_formulario" enctype="multipart/form-data" method="post">
+  <form enctype="multipart/form-data" action="http://forms.esculture.es/enviar.php/" method="POST" id ="escultureform" onsubmit="return ValidarCaptcha();">
     <div class="doscol">
-      <div><input title="Mínimo 3 caracteres" name="nombre" pattern=".{3,}" required="" type="text" placeholder="* Nombre">
+      <div>
+        <input title="Mínimo 3 caracteres" name="nombre" pattern=".{3,}" required="" type="text" placeholder="* Nombre">
+        <input title="Mínimo 3 caracteres" name="apellidos" pattern=".{3,}" class="oculto" type="text" placeholder="Apellidos">
         <input title="Formato de email no válido" name="email" pattern="[^@\s]+@[^@\s]+\.[^@\s]+" required="" type="text" placeholder="* Mail">
         <input name="telefono" type="text" placeholder="Teléfono"></div>
       <div>
@@ -23,8 +30,15 @@ templateClass: contacto
         </div>
       </div>
       <div class="enviar">
+        <input type="hidden" name="secreto" value="US6nUxG8kkYp^K5XQJyz">
+        <input type="hidden" name="asunto" value="Contacto desde Esculture.es">
         <button type="submit">Enviar</button>
       </div>
     </div>
   </form>
+</div>
+<div class="contenido">
+  <br><br>
+  <p>Si lo prefieres puedes escribirnos directamente un email a <a href="mailto:info@esculture.es">info@esculture.es</a>
+  </p>
 </div>

@@ -21,4 +21,8 @@ layout: "layouts/base.njk"
 
 </div>
 
-{% include "layouts/partials/enlace_artistas.njk" %}
+{% if permalink == "/sobre-nosotros/para-escultores/" %}
+  {% include "layouts/partials/enlace_contacto.njk" %}
+{% else %}
+  {% include "layouts/partials/enlace_artistas.njk" %}
+{% endif %}

@@ -46,9 +46,11 @@ templateClass: obra
   {% endif %}
   <br/>
   <div class="formulario">
-    <form id="suventform" action="index.php?option=com_formulario" enctype="multipart/form-data" method="post">
+    <form enctype="multipart/form-data" action="http://forms.esculture.es/enviar.php/" method="POST" id ="escultureform">
       <div class="doscol">
-        <div><input title="Mínimo 3 caracteres" name="nombre" pattern=".{3,}" required="" type="text" placeholder="* Nombre">
+        <div>
+          <input title="Mínimo 3 caracteres" name="nombre" pattern=".{3,}" required="" type="text" placeholder="* Nombre">
+          <input title="Mínimo 3 caracteres" name="apellidos" pattern=".{3,}" class="oculto" type="text" placeholder="Apellidos">
           <input title="Formato de email no válido" name="email" pattern="[^@\s]+@[^@\s]+\.[^@\s]+" required="" type="text" placeholder="* Mail">
           <input name="telefono" type="text" placeholder="Teléfono"></div>
         <div>
@@ -65,6 +67,8 @@ templateClass: obra
           </div>
         </div>
         <div class="enviar">
+          <input type="hidden" name="secreto" value="US6nUxG8kkYp^K5XQJyz">
+          <input type="hidden" name="asunto" value='Estoy interesado en la obra "{{ titulo }}"'>
           <button type="submit">Enviar</button>
         </div>
       </div>

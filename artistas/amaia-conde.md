@@ -1,10 +1,10 @@
 ---
 nombre: Amaia Conde
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1682761931/artistas/Amaia%20Conde/ACC-19_3.jpg
-paginaweb: www.amaiaconde.es
-email: amaia@conde.es
-telefono: 666666666
-instagram: dafasf
+paginaweb: ""
+email: ""
+telefono: ""
+instagram: ""
 ---
 
 Cuando era una niña inquieta, solo encontraba paz al trabajar con una sierra de marquetería. Nunca imaginé que mi amor por la madera se convertiría en mi carrera profesional.

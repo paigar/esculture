@@ -18,6 +18,6 @@ B﻿orsao
 
 A﻿lmendro
 
-5﻿4x32x28
+5﻿4x32x28cm
 
 2﻿022

@@ -14,4 +14,10 @@ galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1694021984/artistas/Fertxu%20Mart%C3%ADnez/Borsao/P1060316.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1694021984/artistas/Fertxu%20Mart%C3%ADnez/Borsao/P1060321.jpg
 ---
-a﻿a
+B﻿orsao
+
+A﻿lmendro
+
+5﻿4x32x28
+
+2﻿022

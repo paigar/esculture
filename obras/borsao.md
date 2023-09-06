@@ -2,7 +2,7 @@
 titulo: BORSAO
 artista: Fertxu Martínez
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1694021979/artistas/Fertxu%20Mart%C3%ADnez/Borsao/P1060309.jpg
-video: https://res.cloudinary.com/dasijlpgz/video/upload/v1694022006/artistas/Fertxu%20Mart%C3%ADnez/Borsao/Sin_t%C3%ADtulo-3.mp4
+video: https://res.cloudinary.com/dasijlpgz/video/upload/v1694025318/artistas/Fertxu%20Mart%C3%ADnez/Borsao/Sin_t%C3%ADtulo.mp4
 galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1694021979/artistas/Fertxu%20Mart%C3%ADnez/Borsao/P1060308.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1694021979/artistas/Fertxu%20Mart%C3%ADnez/Borsao/P1060306.jpg

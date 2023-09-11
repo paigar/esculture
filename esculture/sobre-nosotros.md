@@ -3,12 +3,11 @@ titulo: Sobre nosotros
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1672160717/web/nosotros.jpg
 templateClass: nosotros
 ---
-
 ## Una manera diferente de mostrar la **escultura** para hacer llegar a ti, amante de esta disciplina, un acercamiento más íntimo a cada obra.
 
-Nuestra misión es acercar las más destacadas y fascinantes obras escultóricas a aficionados, coleccionistas y entusiastas del arte de todo el mundo, a través de una experiencia en línea inigualable.
+Nuestra misión es acercar propuestas escultóricas para que el espectador pueda interactuar de una manera más cercana y directa con la pieza a través de una experiencia en línea inigualable.
 
-En **Esculture** encontrarás una cuidada selección de esculturas contemporáneas y clásicas, creadas por artistas consagrados y emergentes, que exploran diversos estilos, técnicas y materiales. Nuestro enfoque principal es brindar una experiencia visual y sensorial única, mediante el uso de vídeos e imágenes en alta calidad que permitan apreciar cada detalle y textura de las obras expuestas.
+En **Esculture** encontrarás una cuidada selección de pieza, creadas por artistas consagrados y emergentes con apertura de temáticas, técnicas y materiales. Se brinda una experiencia visual y sensorial única, mediante el uso de vídeos e imágenes en alta calidad que permitan apreciar cada detalle y textura de las obras expuestas
 
 ## Vídeo y fotografía para transmitir lo que nos quiere contar el/la escultor@.
 

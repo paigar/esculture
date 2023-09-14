@@ -3,11 +3,11 @@ titulo: Sobre nosotros
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1672160717/web/nosotros.jpg
 templateClass: nosotros
 ---
-## Una manera diferente de mostrar la **escultura** para hacer llegar a ti, amante de esta disciplina, un acercamiento más íntimo a cada obra.
+## Esculture te propone un itinerario fuera de tu mundo cotidiano y pone a tu disposición el imaginario del escultor para ahondar en su obra y poder descubrir su intencionalidad plástica, interactuando de una manera más cercana y directa con la pieza.
 
-Nuestra misión es acercar propuestas escultóricas para que el espectador pueda interactuar de una manera más cercana y directa con la pieza a través de una experiencia en línea inigualable.
+Obras meditadas y potentes recogidas en vídeo y foto profesional desde perspectiva múltiple, permitiendo explorar dentro de la materia, de sus formas y de sus texturas.
 
-En **Esculture** encontrarás una cuidada selección de pieza, creadas por artistas consagrados y emergentes con apertura de temáticas, técnicas y materiales. Se brinda una experiencia visual y sensorial única, mediante el uso de vídeos e imágenes en alta calidad que permitan apreciar cada detalle y textura de las obras expuestas
+Obras que dan sentido a la vida de un artista ahora entran en diáologo con el espectador.
 
 ## Vídeo y fotografía para transmitir lo que nos quiere contar el/la escultor@.
 

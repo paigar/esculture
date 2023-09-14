@@ -4,7 +4,7 @@ imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1686721190/web/cabece
 templateClass: nosotros
 permalink: /sobre-nosotros/para-visitantes/
 ---
-## Si quieres descubrir propuestas escultóricas presentadas con mayor riqueza visual y mayores posibilidades perceptivas estás en el  sitio adecuado. Juego dinámico y ágil para la escultura. Obra plástica singular como invitación para el diálogo con el espectador.
+## Si quieres descubrir propuestas escultóricas presentadas con mayor riqueza visual y mayores posibilidades perceptivas t. Juego dinámico y ágil para la escultura. Obra plástica singular como invitación para el diálogo con el espectador.
 
 * **Experiencia enriquecedora**. Esculture te invita al diálogo ente artista y público. Te sugiere la comprensión de piezas a partir del conocimiento del material y de la biografía del artista. 
 * **Escultura contemporánea**. Una increíble colección de obra plástica para disfrutar en cualquier momento. Obras singulares de diferentes corrientes estilísticas.

@@ -4,23 +4,10 @@ imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1686721051/web/cabece
 templateClass: nosotros
 permalink: /sobre-nosotros/para-escultores/
 ---
+## A﻿mplía el imaginario escultórico, continúa con la producción plástica, sigue sorprendiendo con todas las posibilidades formales y estructurales. Del diálogo del arte con el espectador nos escargamos nosotros.
 
-## Sabemos que tu pasión es esculpir y queremos que te concentres en lo que mejor sabes hacer. En Esculture, trabajamos para ti y para hacer tu vida un poco más fácil. Aquí te contamos cómo:
-
-- **Tu obra en foto y vídeo** Nos encargamos de retratar y grabar tus obras de arte en nuestro estudio, con la mejor iluminación, y con una imagen consistente para todas tus obras.
-
-- **Forma parte de una imagen de marca establecida** En Esculture trabajamos para ser referentes en la exposición de la escultura en Internet. brindando la mejor experiencia para que tu obra ocupe el lugar que se merece.
-
-- **¡Haz que tu arte sea global!** Tu obra ya no está limitada a una ubicación física. Gracias a Esculture, puedes mostrar tus creaciones a amantes del arte de todo el mundo. ¿A qué esperas para conquistar el planeta con tu arte?
-
-- **¡Estamos abiertos todo el día!** No importa si alguien quiere ver tu obra a las 2 de la mañana o a las 3 de la tarde. En Esculture, tus esculturas están disponibles para ser admiradas las 24 horas del día, los 7 días de la semana.
-
-- **Menos gastos, más beneficios** Mostrar tu obra en Esculture es más económico que en una galería física. Dile adiós a los altos costos de transporte, seguro y comisiones.
-
-- **Vende tus obras a golpe de clic** En Esculture, permitimos la venta directa de tus obras de arte. ¿Quién sabe? Tal vez ese coleccionista del otro lado del mundo esté buscando justo lo que tú ofreces.
-
-- **Tu portfolio digital** En Esculture, no hay limitaciones de espacio. Puedes mostrar todo tu trabajo, no solo unas pocas piezas seleccionadas. Es como tener tu propia exposición personal permanente.
-
-- **Actualiza tu obra fácilmente** ¿Has creado una nueva escultura? ¿Quieres cambiar la descripción de alguna de tus obras? No hay problema, nosotros nos encargamos de que tu obra se vea de la mejor forma posible.
-
-- **Promociona tu trabajo** Esculture pone a tu disposición diversas herramientas de marketing para que puedas compartir tus obras a través de redes sociales y otros canales digitales. ¡Llega a más personas y haz que tu arte sea viral!
+* **Visibilización.** Elige un nuevo punto de vista de tu obra para mayor proyección pública y mayor recepción de tu arte por el espectador. Elige un nuevo lenguaje para acercar conocimiento estético entre artista y público.
+* **Venta de obra.** Esa obra que da sentido a la vida de un artista también puede ayudar a cubrir huecos emocionales del espectador. Vende obra y permite que otros puedan disfrutar de tu propuesta artística haciéndola suya.
+* **Disciplina escultura.** La múltiple creatividad escultórica no permite asimilar ésta a otras artes plásticas. Escena poderosa exclusiva para modos escultóricos tradicionales y plástica escultórica moderna.
+* **Conexión.** Intereses comunes en la faceta plástica de muchos artistas tienen ahora punto de conexión en Esculture. Océano de nuevas posibilidades en la esfera artísitica de la escultura.
+* **Portfolio digital**. Recorrido razonado de tu obra con mayores posibilidades perceptivas, invitando al diálogo con el espectador, ahora en digital y a golpe de click.

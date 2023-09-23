@@ -1,6 +1,6 @@
 ---
 titulo: Hios
-artista: Fertxu Martínez
+artista: Fertxu Martínez en Clara Campoamor
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1695301915/artistas/Fertxu%20Mart%C3%ADnez/Hios/P1060259.jpg
 video: https://res.cloudinary.com/dasijlpgz/video/upload/v1695301928/artistas/Fertxu%20Mart%C3%ADnez/Hios/Sin_t%C3%ADtulo-3.mp4
 galeria:

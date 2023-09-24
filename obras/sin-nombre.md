@@ -1,6 +1,6 @@
 ---
 titulo: Sin nombre
-artista: Fertxu Martínez en Clara Campoamor
+artista: Fertxu Martínez
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1695463459/artistas/Fertxu%20Mart%C3%ADnez%20-%20Clara%20Campoamor/Sin%20nombre/P1060840.jpg
 video: https://res.cloudinary.com/dasijlpgz/video/upload/v1695463454/artistas/Fertxu%20Mart%C3%ADnez%20-%20Clara%20Campoamor/Sin%20nombre/Sin_t%C3%ADtulo_1-3.mp4
 galeria:

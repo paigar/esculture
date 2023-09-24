@@ -1,6 +1,6 @@
 ---
 titulo: Txorko
-artista: Fertxu Martínez
+artista: Fertxu Martínez en Clara Campoamor
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1694207944/artistas/Fertxu%20Mart%C3%ADnez/Txonko/P1060289.jpg
 video: https://res.cloudinary.com/dasijlpgz/video/upload/v1694208211/artistas/Fertxu%20Mart%C3%ADnez/Txonko/Sin_t%C3%ADtulo-1.mp4
 galeria:

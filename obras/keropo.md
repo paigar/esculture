@@ -1,6 +1,6 @@
 ---
 titulo: Keropo
-artista: Fertxu Martínez en Clara Campoamor
+artista: Fertxu Martínez
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1695551175/artistas/Fertxu%20Mart%C3%ADnez/Keropo/P1070040.jpg
 video: https://res.cloudinary.com/dasijlpgz/video/upload/v1695551161/artistas/Fertxu%20Mart%C3%ADnez/Keropo/proyecto-1.mp4
 galeria:

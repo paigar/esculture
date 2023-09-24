@@ -15,7 +15,7 @@ galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1695465621/artistas/Fertxu%20Mart%C3%ADnez/Helix/P1060831.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1695465617/artistas/Fertxu%20Mart%C3%ADnez/Helix/P1060826.jpg
 ---
-M﻿adera
+Karraska
 
 5﻿5x24x19
 

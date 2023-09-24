@@ -1,6 +1,6 @@
 ---
 titulo: Helix
-artista: Fertxu Martínez
+artista: Fertxu Martínez en Clara Campoamor
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1695465615/artistas/Fertxu%20Mart%C3%ADnez/Helix/P1060820.jpg
 video: https://res.cloudinary.com/dasijlpgz/video/upload/v1695465613/artistas/Fertxu%20Mart%C3%ADnez/Helix/Sin_t%C3%ADtulo.mp4
 galeria:

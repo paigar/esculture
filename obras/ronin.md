@@ -1,6 +1,6 @@
 ---
 titulo: Ronin
-artista: Fertxu Martínez en Clara Campoamor
+artista: Fertxu Martínez
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1695462662/artistas/Fertxu%20Mart%C3%ADnez%20-%20Clara%20Campoamor/Ronin/P1060919.jpg
 video: https://res.cloudinary.com/dasijlpgz/video/upload/v1695462657/artistas/Fertxu%20Mart%C3%ADnez%20-%20Clara%20Campoamor/Ronin/Sin_t%C3%ADtulo-4.mp4
 galeria:

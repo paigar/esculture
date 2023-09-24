@@ -10,4 +10,4 @@ permalink: /sobre-nosotros/para-escultores/
 * **Venta de obra.** Esa obra que da sentido a la vida de un artista también puede ayudar a cubrir huecos emocionales del espectador. Vende obra y permite que otros puedan disfrutar de tu propuesta artística haciéndola suya.
 * **Disciplina escultura.** La múltiple creatividad escultórica no permite asimilar ésta a otras artes plásticas. Escena poderosa exclusiva para modos escultóricos tradicionales y plástica escultórica moderna.
 * **Conexión.** Intereses comunes en la faceta plástica de muchos artistas tienen ahora punto de conexión en Esculture. Océano de nuevas posibilidades en la esfera artísitica de la escultura.
-* **Portfolio digital**. Recorrido razonado de tu obra con mayores posibilidades perceptivas, invitando al diálogo con el espectador, ahora en digital y a golpe de click.
+* **Portfolio digital.** Recorrido razonado de tu obra con mayores posibilidades perceptivas, invitando al diálogo con el espectador, ahora en digital y a golpe de click.

@@ -1,5 +1,5 @@
 ---
-titulo: Iturren
+titulo: Ituren
 artista: Fertxu Martínez en Clara Campoamor
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1695457013/artistas/Fertxu%20Mart%C3%ADnez/Iturren/P1060970.jpg
 video: https://res.cloudinary.com/dasijlpgz/video/upload/v1695457000/artistas/Fertxu%20Mart%C3%ADnez/Iturren/Sin_t%C3%ADtulo_1.mp4

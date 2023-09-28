@@ -1,6 +1,6 @@
 ---
 nombre: Fertxu Martínez en Clara Campoamor
-imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1695231862/artistas/Fertxu%20Mart%C3%ADnez%20-%20Clara%20Campoamor/cartel_clara_campoamor.png
+imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1695893686/artistas/Fertxu%20Mart%C3%ADnez%20-%20Clara%20Campoamor/230928_Invitaci%C3%B3n_expo_Fertxu2.png
 ---
 Cuatro años después de su última exposición en Casa Cultura Clara Campoamor vuelve Fertxu Martínez a fascinarnos de nuevo en este espacio de la esfera artística de Barakaldo.
 

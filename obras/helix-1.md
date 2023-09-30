@@ -17,6 +17,6 @@ galeria:
 ---
 Karraska
 
-5﻿5x24x19
+5﻿5x24x19 cm
 
 ﻿2021

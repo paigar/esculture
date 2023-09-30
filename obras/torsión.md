@@ -2,7 +2,7 @@
 titulo: Torsión
 artista: Fertxu Martínez en Clara Campoamor
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1695930992/artistas/Fertxu%20Mart%C3%ADnez/Torsi%C3%B3n/P1070084.jpg
-video: https://res.cloudinary.com/dasijlpgz/video/upload/v1685373202/artistas/Fertxu%20Mart%C3%ADnez/Area%20II/project-1.mp4
+video: https://res.cloudinary.com/dasijlpgz/video/upload/v1696105826/artistas/Fertxu%20Mart%C3%ADnez/Torsi%C3%B3n/Sin_t%C3%ADtulo_1.mp4
 galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1695930992/artistas/Fertxu%20Mart%C3%ADnez/Torsi%C3%B3n/P1070084.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1695930991/artistas/Fertxu%20Mart%C3%ADnez/Torsi%C3%B3n/P1070081.jpg

@@ -17,6 +17,6 @@ galeria:
 ---
 H﻿ierro
 
-4﻿1x37x28
+4﻿1x37x28 cm
 
 2﻿020

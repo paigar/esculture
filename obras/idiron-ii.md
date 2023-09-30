@@ -15,6 +15,6 @@ galeria:
 ---
 R﻿oble
 
-9﻿0x22x5
+9﻿0x22x5 cm
 
 2﻿019

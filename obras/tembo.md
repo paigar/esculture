@@ -18,6 +18,6 @@ galeria:
 ---
 F﻿resno
 
-6﻿4x34x31
+6﻿4x34x31 cm
 
 2﻿020

@@ -14,7 +14,7 @@ galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1695674609/artistas/Fertxu%20Mart%C3%ADnez/Draon/P1060965.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1695674608/artistas/Fertxu%20Mart%C3%ADnez/Draon/P1060961.jpg
 ---
-D﻿raon
+Tilo
 
 7﻿0x18x18
 

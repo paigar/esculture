@@ -18,6 +18,6 @@ galeria:
 ---
 F﻿resno
 
-7﻿2x32x27
+7﻿2x32x27 cm
 
 2﻿020

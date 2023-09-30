@@ -22,6 +22,6 @@ galeria:
 ---
 E﻿ncina
 
-7﻿8x73x43
+7﻿8x73x43 cm
 
 2﻿022

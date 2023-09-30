@@ -15,6 +15,6 @@ galeria:
 ---
 H﻿ierro
 
-4﻿3x23x17
+4﻿3x23x17 cm
 
 2﻿021

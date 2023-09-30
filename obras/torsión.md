@@ -12,6 +12,6 @@ galeria:
 ---
 T﻿écnica mixta
 
-6﻿0x50x37
+6﻿0x50x37 cm
 
 2﻿022

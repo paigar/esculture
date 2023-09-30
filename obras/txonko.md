@@ -16,10 +16,8 @@ galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1694207944/artistas/Fertxu%20Mart%C3%ADnez/Txonko/P1060289.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1694207943/artistas/Fertxu%20Mart%C3%ADnez/Txonko/P1060287.jpg
 ---
-T﻿xonko
-
 A﻿lmendro
 
-5﻿1x41x28cm
+5﻿1x41x28 cm
 
 2﻿022

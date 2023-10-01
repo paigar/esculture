@@ -16,6 +16,4 @@ Se resiste a encorsetarse en una disciplina convencional abriendo el imaginario 
 
 Casa Cultura Clara Campoamor – Barakaldo 16 a 31 octubre 2023.
 
-https://www.youtube.com/watch?v=PHrh_jVjxqE
-
 https://youtu.be/Y-JOQC02l68?si=KeQfgzwe5Q3ZCyP8

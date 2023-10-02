@@ -4,7 +4,7 @@ imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1686721051/web/cabece
 templateClass: nosotros
 permalink: /sobre-nosotros/para-escultores/
 ---
-## A﻿mplía el imaginario escultórico, continúa con la producción plástica, sigue sorprendiendo con todas las posibilidades formales y estructurales. Del diálogo del arte con el espectador nos escargamos nosotros.
+## A﻿mplía el imaginario escultórico, continúa con la producción plástica, sigue sorprendiendo con todas las posibilidades formales y estructurales... del diálogo del arte con el espectador nos escargamos nosotros.
 
 * **Visibilización.** Elige un nuevo punto de vista de tu obra para mayor proyección pública y mayor recepción de tu arte por el espectador. Elige un nuevo lenguaje para acercar conocimiento estético entre artista y público.
 * **Venta de obra.** Esa obra que da sentido a la vida de un artista también puede ayudar a cubrir huecos emocionales del espectador. Vende obra y permite que otros puedan disfrutar de tu propuesta artística haciéndola suya.

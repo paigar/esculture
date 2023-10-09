@@ -2,6 +2,8 @@
 nombre: Fertxu Martínez en Clara Campoamor
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1695893686/artistas/Fertxu%20Mart%C3%ADnez%20-%20Clara%20Campoamor/230928_Invitaci%C3%B3n_expo_Fertxu2.png
 ---
+https://youtu.be/FxCnf7cEeYo?si=lWg74esvSxLg8WZL
+
 Cuatro años después de su última exposición en Casa Cultura Clara Campoamor vuelve Fertxu Martínez a fascinarnos de nuevo en este espacio de la esfera artística de Barakaldo.
 
 Nos propone ahora este artista un itinerario por las propuestas plásticas de estos últimos cuatro años.
@@ -15,5 +17,3 @@ Constante reflexión de este artista sobre la materia con piezas de fuerte ident
 Se resiste a encorsetarse en una disciplina convencional abriendo el imaginario escultórico hacia nuevas formas y materiales.
 
 Casa Cultura Clara Campoamor – Barakaldo 16 a 31 octubre 2023.
-
-https://youtu.be/FxCnf7cEeYo?si=lWg74esvSxLg8WZL

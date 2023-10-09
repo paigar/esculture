@@ -16,4 +16,4 @@ Constante reflexión de este artista sobre la materia con piezas de fuerte ident
 
 Se resiste a encorsetarse en una disciplina convencional abriendo el imaginario escultórico hacia nuevas formas y materiales.
 
-Casa Cultura Clara Campoamor – Barakaldo 16 a 31 octubre 2023.
+Casa Cultura Clara Campoamor – Barakaldo, 16 a 31 octubre 2023.

@@ -39,11 +39,18 @@ Cordófono de castaño calcinado
 >
 > *eta zulo baltz bihurtzen naz.*
 
-*`Me alimento de luz
-y soy oscuridad
-me trago el sonido
-y estoy mudo
-absorbo toda la materia
-y estoy vacío
-Lo quiero todo y me convierto
-en un agujero negro`*
+*`Me alimento de luz`*
+
+*`y soy oscuridad`*
+
+*`me trago el sonido`*
+
+*`y estoy mudo`*
+
+*`absorbo toda la materia`*
+
+*`y estoy vacío`*
+
+*`Lo quiero todo y me convierto`*
+
+*`en un agujero negro`*

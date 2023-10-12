@@ -23,34 +23,20 @@ Kiskaldutako gaztainondozko kordofonoa.
 Cordófono de castaño calcinado
 54 x 54 x 6 zm. 
 
-> *Argiaz elikatzen naz*
+> *`Argiaz elikatzen naz/ 
+> eta ilunpetan nago/ 
+> soinua irensten dot/ 
+> eta mutu nago/ 
+> materia osoa xurgatzen dot/ 
+> eta hutsik nago/ 
+> Dana gura dot/ 
+> eta zulo baltz bihurtzen naz`*
 >
-> *eta ilunpetan nago*
->
-> *soinua irensten dot*
->
-> *eta mutu nago*
->
-> *materia osoa xurgatzen dot*
->
-> *eta hutsik nago*
->
-> *Dana gura dot*
->
-> *eta zulo baltz bihurtzen naz.*
-
-*`Me alimento de luz`*
-
-*`y soy oscuridad`*
-
-*`me trago el sonido`*
-
-*`y estoy mudo`*
-
-*`absorbo toda la materia`*
-
-*`y estoy vacío`*
-
-*`Lo quiero todo y me convierto`*
-
-*`en un agujero negro`*
+> `Me alimento de luz/ 
+> y soy oscuridad/ 
+> me trago el sonido/ 
+> y estoy mudo/ 
+> absorbo toda la materia/ 
+> y estoy vacío/ 
+> Lo quiero todo y me convierto/ 
+> en un agujero negro`

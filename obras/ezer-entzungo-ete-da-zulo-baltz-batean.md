@@ -17,27 +17,47 @@ galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1697136955/artistas/Urbela/Ezer%20entzungo%20ete%20da%20zulo%20baltz%20batean/P1070239.jpg
 ---
 Ezer entzungo ete da zulo baltz batean?
+
 ¿Se escuchará algo en un agujero negro?
 
-
 Kiskaldutako gaztainondozko kordofonoa
+
 Cordófono de castaño calcinado
+
 54 x 54 x 6 zm.
 
+
+
 Argiaz elikatzen naz
+
 eta ilunpetan nago
+
 soinua irensten dot
+
 eta mutu nago
+
 materia osoa xurgatzen dot
+
 eta hutsik nago
+
 Dana gura dot
+
 eta zulo baltz bihurtzen naz.
 
+
+
 Me alimento de luz
+
 y soy oscuridad
+
 me trago el sonido
+
 y estoy mudo
+
 absorbo toda la materia
+
 y estoy vacío
+
 Lo quiero todo y me convierto
+
 en un agujero negro

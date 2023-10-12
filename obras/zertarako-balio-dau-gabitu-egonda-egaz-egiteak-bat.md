@@ -16,21 +16,21 @@ galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1696697874/artistas/Urbela/Zertarako%20balio%20dau%20gatibu%20egonda%20egaz%20egiteak%20%28bat%29/P1070199.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1696697871/artistas/Urbela/Zertarako%20balio%20dau%20gatibu%20egonda%20egaz%20egiteak%20%28bat%29/P1070196.jpg
 ---
-Zertarako balio dau gatibu egonda egaz egiteak? (bat)
-¿De qué sirve volar estando cautivo? (uno)
+Zertarako balio dau gatibu egonda egaz egiteak? (bat). 
+¿De qué sirve volar estando cautivo? (uno).
 
-Leizarra
-Fresno
+Leizarra. 
+Fresno. 
 27 x 27 x 34 zm.
 
-Eskuak badozuz eta ez badozu laztantzen
-begiak badozuz eta ez badozu ikusi nahi
-ahoa badozu eta ez badozu muxukatzen
-hegoak badozuz eta ez badozu egaz egiten...
-zeure nian gatibu zagoz?
-
-Si tienes manos y no acaricias
-si tienes ojos y no quieres ver
-si tienes boca y no besas
-si tienes alas y no vuelas
-¿Estas cautivo en tu propio yo?
+> `Eskuak badozuz eta ez badozu laztantzen/ 
+> begiak badozuz eta ez badozu ikusi nahi/ 
+> ahoa badozu eta ez badozu muxukatzen/ 
+> hegoak badozuz eta ez badozu egaz egiten.../ 
+> zeure nian gatibu zagoz?`
+>
+> `Si tienes manos y no acaricias/ 
+> si tienes ojos y no quieres ver/ 
+> si tienes boca y no besas/ 
+> si tienes alas y no vuelas/ 
+> ¿Estas cautivo en tu propio yo?`

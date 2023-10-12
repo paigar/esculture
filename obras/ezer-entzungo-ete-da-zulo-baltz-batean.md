@@ -16,8 +16,8 @@ galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1697136958/artistas/Urbela/Ezer%20entzungo%20ete%20da%20zulo%20baltz%20batean/P1070241.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1697136955/artistas/Urbela/Ezer%20entzungo%20ete%20da%20zulo%20baltz%20batean/P1070239.jpg
 ---
-**Ezer entzungo ete da zulo baltz batean?
-¿Se escuchará algo en un agujero negro?**
+Ezer entzungo ete da zulo baltz batean?
+¿Se escuchará algo en un agujero negro?
 
 Kiskaldutako gaztainondozko kordofonoa
 Cordófono de castaño calcinado

@@ -21,7 +21,7 @@ Ezer entzungo ete da zulo baltz batean?.
 
 Kiskaldutako gaztainondozko kordofonoa. 
 Cordófono de castaño calcinado. 
-54 x 54 x 6 zm. 
+54 x 54 x 6 zm.  
 
 > `Argiaz elikatzen naz/ 
 > eta ilunpetan nago/ 

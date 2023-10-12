@@ -22,16 +22,16 @@ Gaztainondo zahartuta.
 Castaño envejecido. 
 53 x 33 x 18 zm.
 
-*`Bidea eraiki/ 
+`Bidea eraiki/ 
 helmuga axola barik/ 
 pausoz pauso/ 
 norabiderik gabeko zidorra/ 
 noraezean./ 
-Ez al gara ibiltariak?`*
+Ez al gara ibiltariak?`
 
-*`Construir camino/ 
+`Construir camino/ 
 sin importarnos el destino/ 
 un paso tras otro/ 
 sendero sin rumbo/ 
 a la deriva./ 
-¿Acaso no somos caminantes?`*
+¿Acaso no somos caminantes?`

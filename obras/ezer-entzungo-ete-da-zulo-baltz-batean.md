@@ -20,17 +20,17 @@ Ezer entzungo ete da zulo baltz batean?.
 ¿Se escuchará algo en un agujero negro?
 
 Kiskaldutako gaztainondozko kordofonoa. 
-Cordófono de castaño calcinado
+Cordófono de castaño calcinado. 
 54 x 54 x 6 zm. 
 
-> *`Argiaz elikatzen naz/ 
+> `Argiaz elikatzen naz/ 
 > eta ilunpetan nago/ 
 > soinua irensten dot/ 
 > eta mutu nago/ 
 > materia osoa xurgatzen dot/ 
 > eta hutsik nago/ 
 > Dana gura dot/ 
-> eta zulo baltz bihurtzen naz`*
+> eta zulo baltz bihurtzen naz`
 >
 > `Me alimento de luz/ 
 > y soy oscuridad/ 

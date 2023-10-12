@@ -23,14 +23,14 @@ Leizarra.
 Fresno. 
 27 x 27 x 34 zm.
 
-`Eskuak badozuz eta ez badozu laztantzen/ 
+*Eskuak badozuz eta ez badozu laztantzen/ 
 begiak badozuz eta ez badozu ikusi nahi/ 
 ahoa badozu eta ez badozu muxukatzen/ 
 hegoak badozuz eta ez badozu egaz egiten.../ 
-zeure nian gatibu zagoz?`
+zeure nian gatibu zagoz?*
 
-`Si tienes manos y no acaricias/ 
+*Si tienes manos y no acaricias/ 
 si tienes ojos y no quieres ver/ 
 si tienes boca y no besas/ 
 si tienes alas y no vuelas/ 
-¿Estas cautivo en tu propio yo?`
+¿Estas cautivo en tu propio yo?*

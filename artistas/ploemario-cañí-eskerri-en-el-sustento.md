@@ -10,6 +10,6 @@ imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1698240566/artistas/E
 >
 > *Nada, sin embargo, que permita sacar conclusiones demasiado exactas."*
 
-Eskerri - Ploemario cañí en R﻿estaurante El Sustento. Madrid-Chamberí. 
+ Ploemario cañí de Eskerri en R﻿estaurante El Sustento. Madrid-Chamberí.
 
 04 noviembre - 18 diciembre 2023

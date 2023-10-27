@@ -2,4 +2,12 @@
 nombre: Eskerri - Ploemario cañí
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1698240566/artistas/Eskerri%20-%20Ploemario%20ca%C3%B1%C3%AD/P1070501_-_copia.jpg
 ---
-En las paredes, la humedad se ha negado a seguir la inspiración de los informalistas. Las figuras quedan compuestas según los cánones más rigurosos del clasicismo, sin dejar resquicio alguno a la imaginación. Las madonas enseñan un gesto compungido a la manera toscana; el arbolado, en el rincón más lejano, aprovecha algún compuesto ferruginoso para ganar calidades otoñales; ningún detalle se deja a la improvisación. Desde más cerca aparecen sospechosas huellas de herramientas. Nada, sin embargo, que permita sacar conclusiones demasiado exactas.
+*`"En las paredes, la humedad se ha negado a seguir la inspiración de los informalistas.`* 
+
+*`Las figuras quedan compuestas según los cánones más rigurosos del clasicismo, sin dejar resquicio alguno a la imaginación.`* 
+
+*`Las madonas enseñan un gesto compungido a la manera toscana; el arbolado, en el rincón más lejano, aprovecha algún compuesto ferruginoso para ganar calidades otoñales; ningún detalle se deja a la improvisación. Desde más cerca aparecen sospechosas huellas de herramientas.`* 
+
+*`Nada, sin embargo, que permita sacar conclusiones demasiado exactas."`*
+
+R﻿estaurante El Sustento. Madrid-Chamberí. 04 noviembre - 18 diciembre 2023

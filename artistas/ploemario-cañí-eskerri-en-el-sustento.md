@@ -14,4 +14,4 @@ imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1698260701/artistas/E
 
 Ploemario cañí de Eskerri en R﻿estaurante El Sustento. Madrid-Chamberí.
 
-04 noviembre - 18 diciembre 2023
+De 04 noviembre a 18 diciembre 2023,

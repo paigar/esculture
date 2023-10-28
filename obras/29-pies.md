@@ -3,7 +3,7 @@ titulo: 29 pies
 artista: Eskerri - Ploemario cañí
 precio: "500"
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1698431136/artistas/Eskerri%20-%20Ploemario%20ca%C3%B1%C3%AD/27_29%20pies/P1070731.jpg
-video: https://res.cloudinary.com/dasijlpgz/video/upload/v1698431128/artistas/Eskerri%20-%20Ploemario%20ca%C3%B1%C3%AD/27_29%20pies/Sin_t%C3%ADtulo_2-1.mp4
+video: https://res.cloudinary.com/dasijlpgz/video/upload/v1698477877/artistas/Eskerri%20-%20Ploemario%20ca%C3%B1%C3%AD/27_29%20pies/Sin_t%C3%ADtulo_2.mp4
 galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1698431136/artistas/Eskerri%20-%20Ploemario%20ca%C3%B1%C3%AD/27_29%20pies/P1070731.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1698431142/artistas/Eskerri%20-%20Ploemario%20ca%C3%B1%C3%AD/27_29%20pies/P1070733.jpg

@@ -1,6 +1,6 @@
 ---
 nombre: Eskerri - Ploemario cañí
-imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1698240566/artistas/Eskerri%20-%20Ploemario%20ca%C3%B1%C3%AD/P1070501_-_copia.jpg
+imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1698260701/artistas/Eskerri%20-%20Ploemario%20ca%C3%B1%C3%AD/03_Rosa/P1070510.jpg
 ---
 > *"En las paredes, la humedad se ha negado a seguir la inspiración de los informalistas.* 
 >

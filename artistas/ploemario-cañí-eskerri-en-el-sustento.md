@@ -14,4 +14,4 @@ https://youtu.be/H0dAX3KkxYw
 
 Ploemario cañí de Eskerri en R﻿estaurante El Sustento. Madrid-Chamberí.
 
-De 04 noviembre a 18 diciembre 2023,
+Otoño-Invierno 2023-2024

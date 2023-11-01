@@ -1,5 +1,5 @@
 ---
-titulo: Proporción aúrea
+titulo: Proporción áurea
 artista: Eskerri - Ploemario cañí
 precio: "350"
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1698424946/artistas/Eskerri%20-%20Ploemario%20ca%C3%B1%C3%AD/06_Proporci%C3%B3n%20a%C3%BArea/P1070615.jpg

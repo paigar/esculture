@@ -1,5 +1,5 @@
 ---
-titulo: Obra#2-Efrén
+titulo: Obra#2 Efrén
 artista: Efrén
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1699999469/artistas/Efr%C3%A9n/Obra2-Efr%C3%A9n/P1070851.jpg
 video: https://res.cloudinary.com/dasijlpgz/video/upload/v1699999462/artistas/Efr%C3%A9n/Obra2-Efr%C3%A9n/Sin_t%C3%ADtulo_1.mp4

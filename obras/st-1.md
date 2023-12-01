@@ -11,4 +11,4 @@ galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1701462879/artistas/Efr%C3%A9n%20-%20Abierto%20por%20derribo/S-T1/P1080040.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1701462840/artistas/Efr%C3%A9n%20-%20Abierto%20por%20derribo/S-T1/P1080029.jpg
 ---
-S﻿T#1
+S/T#1

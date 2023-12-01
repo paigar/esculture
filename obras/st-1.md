@@ -1,6 +1,6 @@
 ---
 titulo: S/T#1
-artista: Efrén
+artista: Efrén - Abierto por derribo
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1701462872/artistas/Efr%C3%A9n%20-%20Abierto%20por%20derribo/S-T1/P1080032.jpg
 video: https://res.cloudinary.com/dasijlpgz/video/upload/v1701462886/artistas/Efr%C3%A9n%20-%20Abierto%20por%20derribo/S-T1/project.mp4
 galeria:

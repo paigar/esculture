@@ -11,4 +11,4 @@ galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1699999474/artistas/Efr%C3%A9n/Obra2-Efr%C3%A9n/P1070861.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1699999473/artistas/Efr%C3%A9n/Obra2-Efr%C3%A9n/P1070859.jpg
 ---
-O﻿bra 2 de Efrén
+S/T#2

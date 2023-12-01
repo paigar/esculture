@@ -12,4 +12,4 @@ galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1699999177/artistas/Efr%C3%A9n/Obra1-Efr%C3%A9n/P1070840.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1699999176/artistas/Efr%C3%A9n/Obra1-Efr%C3%A9n/P1070838.jpg
 ---
-O﻿bra 1 de Efrén
+S/T#6

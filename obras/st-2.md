@@ -1,5 +1,5 @@
 ---
-titulo: ST#2
+titulo: S/T#2
 artista: Efrén - Abierto por derribo
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1700000761/artistas/Efr%C3%A9n%20-%20Abierto%20por%20derribo/S-T2/P1070865.jpg
 video: https://res.cloudinary.com/dasijlpgz/video/upload/v1699999462/artistas/Efr%C3%A9n%20-%20Abierto%20por%20derribo/S-T2/Sin_t%C3%ADtulo_1.mp4

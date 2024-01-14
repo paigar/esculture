@@ -1,5 +1,5 @@
 ---
-titulo: JLGP - OTEP_2
+titulo: JLGP - OTEP_02
 artista: JLG Pazos - Otro tiempo es posible
 imagen: https://res.cloudinary.com/dasijlpgz/image/upload/v1705242582/artistas/Jose%20Luis%20Gonz%C3%A1lez%20Pazos%20-%20Otro%20tiempo%20es%20posible/obra_2/P1090068.jpg
 video: https://res.cloudinary.com/dasijlpgz/video/upload/v1705239325/artistas/Jose%20Luis%20Gonz%C3%A1lez%20Pazos%20-%20Otro%20tiempo%20es%20posible/obra_2/Sin_t%C3%ADtulo.mp4
@@ -12,4 +12,4 @@ galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1705242582/artistas/Jose%20Luis%20Gonz%C3%A1lez%20Pazos%20-%20Otro%20tiempo%20es%20posible/obra_2/P1090070.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1705242582/artistas/Jose%20Luis%20Gonz%C3%A1lez%20Pazos%20-%20Otro%20tiempo%20es%20posible/obra_2/P1090068.jpg
 ---
-JLGP - OTEP_2
+JLGP - OTEP_02

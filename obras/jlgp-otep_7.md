@@ -31,5 +31,5 @@ su/
 ohe./
 Sorgin-etxea dut mihi puntan/
 listuz nahastu eta ahosabaian dastatu dezaket/
-ohituren abaroa./
-Autora: Hegoa Alvarez*
+ohituren abaroa./*
+**Autora: Hegoa Alvarez**

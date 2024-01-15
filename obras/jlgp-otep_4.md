@@ -12,5 +12,5 @@ galeria:
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1705242673/artistas/Jose%20Luis%20Gonz%C3%A1lez%20Pazos%20-%20Otro%20tiempo%20es%20posible/obra_4/P1090104.jpg
   - https://res.cloudinary.com/dasijlpgz/image/upload/v1705242672/artistas/Jose%20Luis%20Gonz%C3%A1lez%20Pazos%20-%20Otro%20tiempo%20es%20posible/obra_4/P1090102.jpg
 ---
-77-43-72 cm.
+67-63-40 cm.
 Gresa, egurra eta burdina.

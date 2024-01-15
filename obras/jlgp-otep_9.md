@@ -11,3 +11,19 @@ galeria:
 ---
 94-47-45 cm.
 Gresa, gurra eta burdina.
+
+*Iraganak eman dizkidan apurrak/
+Batu ditut eta ertzetik hasita beste ertzera/
+Irakurri dut haren esanahia./
+Orainak dakarzkit/
+eskuak zabal-zabalik/
+gutizia/
+eraldatuak/
+oro heldu dira nire paparrera/
+eta kateatu ditut etorkizuneko gutizietara./
+Pintzelkadez irudikatu dut hiruren arteko/
+lokarria/
+bertsoz bihotza osatu, bete, edertu./
+Ilusioei ahoa marraztu/
+behingoz neure bulkadei egin kontu./*
+Autora: **Hegoa Alvarez**

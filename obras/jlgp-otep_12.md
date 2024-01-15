@@ -11,3 +11,12 @@ galeria:
 ---
 50-44-15 cm.
 Gresa eta egurra.
+
+*En los viejos maderos,/
+nacederos de raíz posible,/
+brota el esqueje./
+Deje el tiempo que florezca,/
+crezca su tallo./
+Deje el tiempo que le deje/
+y en él se refleje sin fallo./*
+Autor: **Javier Peñalba**

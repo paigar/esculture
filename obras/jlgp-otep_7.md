@@ -12,3 +12,24 @@ galeria:
 ---
 47-49-66 cm.
 Gresa, egurra eta burdina.
+
+*Agertu zirenetik izan dira eta izango dira.
+Etxea sortu eta behin errotu zela
+landetako emakumeek
+izan dute beti helburu mundua.
+Lurretik gorputzera daramate arnasa
+haiek ehundu dute etxearen arima.
+Koban
+odol
+haragi
+larru
+muxu.
+Zimendu
+horma
+egur
+su
+ohe.
+Sorgin-etxea dut mihi puntan
+listuz nahastu eta ahosabaian dastatu dezaket
+ohituren abaroa.
+Autora: Hegoa Alvarez*

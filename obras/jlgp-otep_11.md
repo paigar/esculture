@@ -11,7 +11,7 @@ galeria:
 18-43-24cm.
 Gresa eta egurra.
 
-Con el devenir constante del indefectible tiempo,/
+*Con el devenir constante del indefectible tiempo,/
 de hollín antiguo y oscuro se han teiiido los cimientos y las vigas./
 En la cumbre y atalaya/
 de tan castigado cerro,/
@@ -26,4 +26,4 @@ y mirar, siempre a lo lejos, donde otros no ven nada ella ve un futuro pleno/
 de semillas./
 La luna toca su rostro/
 y le ablanda un poco el gesto: nuevos troncos brotarán/
-de nuestro cansado suelo algún día./
+de nuestro cansado suelo algún día./*

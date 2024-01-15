@@ -10,3 +10,27 @@ galeria:
 ---
 61-44-6 cm.
 Gresa eta egurra.
+
+*Agortzen da sua,/
+hausberoak itzali gauero./
+Oraina zendu da,/
+egurra kiskali/
+gero./
+llunabarrak du afaldu/
+iraganezko zali/
+bero./
+Argi-izpi berriak/
+ematen du igalik/
+goizero./
+Orduen joan-etorria/
+dugu basanimali/
+ero./
+Atzera zein aurrera,/
+berria sortu, zaharra estali/
+ezkero;/
+emango digu erlojuak/
+aukera ugari/
+gaurgero./
+Etorkizunak ez du maite/
+ihabalik,/
+gero./*

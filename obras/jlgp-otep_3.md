@@ -15,3 +15,18 @@ galeria:
 ---
 72-35-56 cm.
 Gresa, egurra eta burdina
+
+*Viejo cuento,/
+de otra época,/
+otro tiempo,/
+que vuela al viento/
+como la palabra en mi boca:/
+hacia el futuro incierto/
+en un vano intento/
+de ser duros como rocas./
+Pero pasa el tiempo, viejo cuento,/
+y esperanzas hay unas pocas:/
+de poder convertir lo cruento/
+y bañarlas con el unguento/
+de estas nuestras sonrisas locas./*
+Autor: **Javier Peñalba**

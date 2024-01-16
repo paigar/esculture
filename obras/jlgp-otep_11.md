@@ -26,4 +26,4 @@ y mirar, siempre a lo lejos, donde otros no ven nada ella ve un futuro pleno/
 de semillas./
 La luna toca su rostro/
 y le ablanda un poco el gesto: nuevos troncos brotarán/
-de nuestro cansado suelo algún día./*
+de nuestro cansado suelo algún día./* Autora: **Izaskun Avellanas**

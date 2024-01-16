@@ -33,4 +33,4 @@ aukera ugari/
 gaurgero./
 Etorkizunak ez du maite/
 ihabalik,/
-gero./*
+gero./*Autora: **Izaskun Avellanas**
